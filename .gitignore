@@ -1,0 +1,27 @@
+# Fichiers temporaires
+*.tmp
+*.temp
+~$*
+.DS_Store
+Thumbs.db
+
+# Fichiers de travail personnel
+temp/notes_personnelles/
+temp/brouillons/
+
+# Fichiers système
+*.log
+*.cache
+
+# Fichiers sensibles (si ajoutés par erreur)
+*.env
+config/secrets.json
+tokens.txt
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers générés automatiquement
+*.pdf.tmp
+*.docx.tmp
