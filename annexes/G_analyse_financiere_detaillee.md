@@ -20,9 +20,9 @@ Cette **infrastructure tripartite** (vente, production, stockage) optimise les *
 L'**offre produits** d'Espressolab Tunisie comprend **89 références** réparties en **8 catégories** avec une **stratégie pricing** adaptée au marché local :
 
 ### G.2.1 Cafés Chauds (10 références) : 6,86 à 13,71 TND
-- Espresso : 6,86 TND (marge 65,6%)
-- Cappuccino : 12,03 TND (marge 65,6%)
-- Caffè Latte : 13,71 TND (marge 65,6%)
+- Espresso : 6,50 TND (marge 65%)
+- Cappuccino : 9,00 TND (marge 65%)
+- Caffè Latte : 10,00 TND (marge 65%)
 - Mocha : 16,31 TND (marge 65,6%)
 
 ### G.2.2 Boissons Spécialités (6 références) : 14,60 à 20,58 TND
@@ -40,7 +40,7 @@ L'**offre produits** d'Espressolab Tunisie comprend **89 références** réparti
 - Chemex : 17,17 TND (marge 65,6%)
 
 ### G.2.5 Food Petit Déjeuner (6 références) : 10,31 à 22,28 TND
-- Croissant : 10,31 TND (marge 65,6%)
+- Croissant : 4,50 TND (marge 65%)
 - Avocado Toast : 22,28 TND (marge 65,6%)
 
 ### G.2.6 Plats & Salades (6 références) : 26,60 à 34,31 TND
