@@ -22,7 +22,7 @@ L'**innovation continue** représente un facteur de différenciation durable. Es
 
 ### 3.1.3 Positionnement Prix-Valeur
 
-La **stratégie de prix** d'Espressolab Tunisie adopte un **positionnement intermédiaire** soigneusement calibré pour maximiser l'accessibilité tout en préservant la perception premium de la marque. L'analyse du marché tunisien révèle un **écart significatif** entre les prix pratiqués par les cafés traditionnels (2-4 dinars tunisiens) et ceux des établissements hôteliers de luxe (15-25 dinars tunisiens), créant un espace de marché optimal pour un positionnement à **8-15 dinars tunisiens** par boisson⁴⁹.
+La **stratégie de prix** d'Espressolab Tunisie adopte un **positionnement intermédiaire** soigneusement calibré pour maximiser l'accessibilité tout en préservant la perception premium de la marque. L'analyse du marché tunisien révèle un **écart significatif** entre les prix pratiqués par les cafés traditionnels (2-4 dinars tunisiens) et ceux des établissements hôteliers de luxe (15-25 dinars tunisiens), créant un espace de marché optimal pour un positionnement à **7-14 dinars tunisiens** par boisson⁴⁹.
 
 Cette **fourchette de prix** correspond à environ **2,5-4,5 euros**, soit un niveau comparable aux chaînes de café européennes de milieu de gamme, tout en restant accessible pour la classe moyenne tunisienne dont les revenus se situent entre 1 362 et 2 009 dinars tunisiens mensuels⁵⁰. Le **ticket moyen visé** de 12 dinars tunisiens (environ 3,5 euros) permet de maintenir une **rentabilité attractive** tout en démocratisant l'accès au café de spécialité.
 

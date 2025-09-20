@@ -1,0 +1,34 @@
+=== RECALCUL FINAL DES PRÉVISIONNELS ===
+
+1. DONNÉES DE BASE DÉFINITIVES
+Investissement total: 2,283,656 TND
+Charges fixes totales: 1,294,767 TND/an
+
+2. PRICING DÉFINITIF
+Ticket moyen final: 22.28 TND
+
+3. NOUVEAUX PRÉVISIONNELS 5 ANS
+--- ANNÉE 1 ---
+CA: 1,604,160 TND
+Résultat: -242,438 TND
+--- ANNÉE 2 ---
+CA: 2,147,970 TND
+Résultat: 41,623 TND
+--- ANNÉE 3 ---
+CA: 2,873,692 TND
+Résultat: 474,153 TND
+--- ANNÉE 4 ---
+CA: 2,955,023 TND
+Résultat: 522,627 TND
+--- ANNÉE 5 ---
+CA: 3,036,354 TND
+Résultat: 571,100 TND
+
+4. NOUVEAUX INDICATEURS CLÉS
+VAN (10%): 329,523 TND
+TRI (estimé): 38.0%
+Délai de récupération: ~4 ans
+
+5. NOUVEAU SEUIL DE RENTABILITÉ
+Seuil CA final: 1,973,730 TND/an
+Seuil clients final: 246 clients/jour

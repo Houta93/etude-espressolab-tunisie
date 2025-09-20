@@ -14,7 +14,7 @@ L'**approvisionnement centralisé** constitue un autre pilier des exigences fran
 
 ### 4.1.2 Investissement Technique Requis
 
-L'**analyse détaillée** des coûts d'investissement, basée sur les données officielles du franchiseur, révèle une **structure financière** précise qui guide la planification budgétaire du projet tunisien. Pour un établissement de **250 mètres carrés**, l'investissement total s'élève à **332 000 dollars américains**, répartis selon une logique qui optimise la **qualité** tout en contrôlant les **risques** opérationnels⁵⁷.
+L'**analyse détaillée** des coûts d'investissement, basée sur les données officielles du franchiseur, révèle une **structure financière** précise qui guide la planification budgétaire du projet tunisien. Pour un établissement de **250 mètres carrés**, l'investissement total s'élève à **674 970 dollars américains**, répartis selon une logique qui optimise la **qualité** tout en contrôlant les **risques** opérationnels⁵⁷.
 
 Les **consommables** représentent **70 000 dollars**, soit **21% de l'investissement total**. Cette catégorie inclut l'ensemble des produits nécessaires au démarrage : stock de café pour un mois minimum, gamme complète de tasses et accessoires logotés, sirops et ingrédients spécialisés, ainsi que les outils opérationnels spécifiques au concept Third Wave. Cette approche garantit un **lancement immédiat** sans rupture d'approvisionnement et permet aux équipes de se familiariser avec l'ensemble de la gamme produit.
 

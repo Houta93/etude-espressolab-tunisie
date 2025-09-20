@@ -1,12 +1,12 @@
-# Chapitre 6 : Étude Financière Prévisionnelle
+# Chapitre 6 : Étude Financière Prévisionnelle (Version Finale)
 
 ## 6.1. Hypothèses et Méthodologie
 
-### 6.1.1. Données de Base
+### 6.1.1. Données de Base Finales
 
 - **Investissement total** : 2 283 656 TND
 - **Charges fixes totales** : 1 294 767 TND/an
-- **Ticket moyen** : 22,28 TND
+- **Ticket moyen final** : 22,28 TND
 
 ### 6.1.2. Méthodologie de Calcul
 
@@ -24,17 +24,17 @@
 | **An 4** | 2 955 023 TND | **+522 627 TND** |
 | **An 5** | 3 036 354 TND | **+571 100 TND** |
 
-## 6.3. Indicateurs de Rentabilité
+## 6.3. Indicateurs de Rentabilité Finaux
 
-| Indicateur | Valeur |
+| Indicateur | Valeur Finale |
 |------------|---------------|
 | **VAN (10%)** | **329 523 TND** |
 | **TRI (estimé)** | **38,0%** |
 | **Délai de récupération** | **~4 ans** |
 
-## 6.4. Seuil de Rentabilité
+## 6.4. Seuil de Rentabilité Final
 
-| Indicateur | Valeur |
+| Indicateur | Valeur Finale |
 |------------|---------------|
 | **Seuil CA** | **1 973 730 TND/an** |
 | **Seuil clients** | **246 clients/jour** |
