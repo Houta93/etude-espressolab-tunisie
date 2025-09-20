@@ -54,7 +54,7 @@ L'**entretien de motivation** constitue la **deuxième étape**, menée par l'As
 
 Le **test pratique** représente la **troisième étape**, permettant d'évaluer les **aptitudes** manuelles, la **capacité** d'apprentissage, et l'**aisance** relationnelle. Ce test comprend une **simulation** de prise de commande, un **exercice** de préparation simple (café filtre), et une **interaction** avec un client mystère. Cette **mise** en situation révèle le **potentiel** du candidat et sa **capacité** d'adaptation à l'environnement Espressolab.
 
-La **période d'essai** de **deux semaines** constitue la **quatrième étape**, permettant une **évaluation** mutuelle dans les conditions réelles de travail. Cette période inclut une **formation** accélérée aux bases, une **supervision** rapprochée, et des **points** d'étape réguliers. L'**évaluation** porte sur la **progression** technique, l'**intégration** dans l'équipe, et la **confirmation** de la motivation. Cette approche sécurise le **recrutement** et facilite l'**intégration** définitive.
+La **période d'essai** de **deux semaines** constitue la **quatrième étape**, permettant une **évaluation** mutuelle dans les conditions réelles de travail. Cette période inclut une **formation** accélérée aux bases, une **supervision** rapprochée, et des **points** d'étape réguliers. L'**évaluation** porte sur la **progression** technique, l'**intégration** dans l'équipe, et la **confirmation** de la motivation. Cette approche sécurise le **recrutement** et facilite l'**intégration**  .
 
 ### 5.2.3 Canaux de Recrutement et Partenariats
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Cette annexe présente la **carte produits définitive** d'Espressolab Tunisie, optimisée pour atteindre l'équilibre financier avec un **ticket moyen de 23,70 TND**. L'offre se concentre sur les **produits fabriqués sur place** avec un **positionnement premium assumé**.
+Cette annexe présente la **carte produits  ** d'Espressolab Tunisie, optimisée pour atteindre l'équilibre financier avec un **ticket moyen de 23,70 TND**. L'offre se concentre sur les **produits fabriqués sur place** avec un **positionnement premium assumé**.
 
 ## Méthodologie Tarifaire Définitive
 
@@ -292,10 +292,10 @@ Cette annexe présente la **carte produits définitive** d'Espressolab Tunisie, 
 ### Stratégie de Lancement
 
 1. **Phase 1** : Lancement avec prix d'appel (-15% pendant 1 mois)
-2. **Phase 2** : Montée progressive vers prix définitifs
+2. **Phase 2** : Montée progressive vers prix  s
 3. **Phase 3** : Positionnement premium assumé
 4. **Communication** : "Le vrai café Third Wave en Tunisie"
 
 ---
 
-*Cette carte produits définitive assure l'équilibre financier du projet Espressolab Tunisie avec un positionnement premium justifié par la qualité exceptionnelle des produits et du service.*
+*Cette carte produits   assure l'équilibre financier du projet Espressolab Tunisie avec un positionnement premium justifié par la qualité exceptionnelle des produits et du service.*
