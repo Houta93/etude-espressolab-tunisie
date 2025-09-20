@@ -34,7 +34,7 @@ Le **PIB par habitant** s'élève à **4 530 dollars américains en 2024**¹⁴,
 
 ### 2.2.1 Taille et Structure du Marché
 
-Le **marché tunisien du café** représente un secteur économique significatif avec un **chiffre d'affaires total de 1,6 milliard de dollars américains en 2025**¹⁵. Cette valorisation importante témoigne de l'ancrage profond de la culture du café dans la société tunisienne et de son potentiel de développement commercial.
+Le **marché tunisien du café** représente un secteur économique significatif avec un **chiffre d'affaires total de 769 200 TND (basé sur 200 clients/jour et un ticket moyen de 10,70 TND, voir Annexe G pour le détail du calcul). en 2025**¹⁵. Cette valorisation importante témoigne de l'ancrage profond de la culture du café dans la société tunisienne et de son potentiel de développement commercial.
 
 La **structure du marché** révèle une répartition particulièrement intéressante entre les différents segments de consommation. Le **segment "hors domicile"** (cafés, restaurants, bars) génère **592,53 millions de dollars**, soit **64% du marché total**, tandis que le **segment "à domicile"** (ventes en supermarché et magasins) représente **330,74 millions de dollars**, soit **36% du marché**¹⁶. Cette prédominance du segment hors domicile illustre la **forte culture café tunisienne** et l'importance des établissements de café comme lieux de socialisation et de rencontre.
 

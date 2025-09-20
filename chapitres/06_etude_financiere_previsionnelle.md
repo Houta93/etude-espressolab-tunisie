@@ -1,52 +1,50 @@
-# Chapitre 6 : Étude Financière Prévisionnelle
+# Chapitre 6 : Étude Financière Prévisionnelle (Version Finale)
 
-## 6.1. Hypothèses et Méthodologie
+## Introduction
 
-### 6.1.1. Données de Base
+Ce chapitre présente l'**étude financière prévisionnelle** basée sur les **données réelles** et la **carte produits réaliste**. Elle reflète la **véritable rentabilité** du projet.
+
+## 6.1 Données de Base
 
 - **Investissement total** : 2 283 656 TND
-- **Charges fixes totales** : 1 294 767 TND/an
-- **Ticket moyen** : 22,28 TND
+- **Coût café franchiseur** : 126,86 TND/kg
+- **Royalties** : 6% du CA
+- **Loyer flagship** : 20 000 TND/mois
 
-### 6.1.2. Méthodologie de Calcul
+## 6.2 Prévisionnel Financier (Basé sur 301 clients/jour)
 
-- **Prévisionnels** : Sur 5 ans, avec inflation et croissance du trafic
-- **Amortissement** : Linéaire sur 5 ans
-- **Actualisation** : Taux de 10%
+### 6.2.1 Chiffre d'Affaires Annuel
+- **Ticket moyen** : 10,70 TND
+- **Clients/jour** : 301
+- **CA Annuel** : 301 × 360 × 10,70 = **1 157 658 TND**
 
-## 6.2. Prévisionnels Financiers 5 Ans
+### 6.2.2 Marge Brute
+- **Marge brute %** : 69,1%
+- **Marge brute annuelle** : 1 157 658 × 69,1% = **800 142 TND**
 
-| Année | Chiffre d'Affaires | Résultat Net |
-|-------|--------------------|--------------|
-| **An 1** | 1 604 160 TND | **-242 438 TND** |
-| **An 2** | 2 147 970 TND | **+41 623 TND** |
-| **An 3** | 2 873 692 TND | **+474 153 TND** |
-| **An 4** | 2 955 023 TND | **+522 627 TND** |
-| **An 5** | 3 036 354 TND | **+571 100 TND** |
+### 6.2.3 Charges Fixes Annuelles
 
-## 6.3. Indicateurs de Rentabilité
+| Charge | Montant TND |
+|--------|-------------|
+| Loyer | 240 000 |
+| Royalties | 69 460 |
+| Salaires | 359 436 |
+| Utilities | 48 000 |
+| Marketing | 24 000 |
+| Assurances | 9 600 |
+| Autres | 36 000 |
+| **TOTAL** | **786 496** |
 
-| Indicateur | Valeur |
-|------------|---------------|
-| **VAN (10%)** | **329 523 TND** |
-| **TRI (estimé)** | **38,0%** |
-| **Délai de récupération** | **~4 ans** |
+### 6.2.4 Résultat Net Année 1
+- **Résultat Net** : 800 142 - 786 496 = **+13 646 TND**
 
-## 6.4. Seuil de Rentabilité
+## 6.3 Seuil de Rentabilité
 
-| Indicateur | Valeur |
-|------------|---------------|
-| **Seuil CA** | **1 973 730 TND/an** |
-| **Seuil clients** | **246 clients/jour** |
+- **Seuil CA** : 763 188 / 69,1% = **1 104 469 TND/an**
+- **Seuil clients/jour** : 1 104 469 / (10,70 × 360) = **287 clients/jour**
 
-## 6.5. Conclusion Financière
+## 6.4 Conclusion
 
-Malgré l'augmentation significative de l'investissement, le projet reste **très rentable** grâce au pricing ajusté.
+Avec les données réelles, le projet atteint l'**équilibre financier** avec **301 clients/jour**, démontrant sa **viabilité**.
 
-- **TRI de 38%** : Performance exceptionnelle
-- **Seuil de 246 clients/jour** : Atteignable
-- **VAN positive** : Création de valeur confirmée
-
-Le projet Espressolab Tunisie, avec un investissement de 2,3M TND et un pricing premium, est **financièrement viable et attractif**.
-
-*Pour l'analyse financière détaillée, se référer à l'Annexe G - Analyse Financière Approfondie.*
+*Pour l'analyse financière détaillée, se référer à l'Annexe G - Analyse Financière Détaillée.*
