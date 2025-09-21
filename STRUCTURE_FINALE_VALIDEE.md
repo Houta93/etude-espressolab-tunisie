@@ -48,11 +48,11 @@
 
 ### ✅ Données Financières Unifiées
 Tous les chapitres utilisent les **mêmes données cohérentes** :
-- **Ticket moyen** : 23,70 TND
-- **Investissement total** : 2 283 656 TND
-- **Objectif clientèle** : 200 clients/jour
-- **Résultat net Année 1** : +359 702 TND
-- **Seuil de rentabilité** : 133 clients/jour
+- **Ticket moyen** : 25,00 TND
+- **Investissement total** : 2 224 910 TND
+- **Objectif clientèle** : 250 clients/jour
+- **Résultat net Année 2** : +151 000 TND
+- **Seuil de rentabilité** : 167 clients/jour
 
 ### ✅ Sources Documentées
 - **435 références** bibliographiques
