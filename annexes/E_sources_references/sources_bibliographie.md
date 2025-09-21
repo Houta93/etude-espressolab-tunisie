@@ -231,8 +231,42 @@ Ce document compile toutes les sources utilisées dans l'étude technico-économ
     - **Consultation** : 21 septembre 2024
     - **Contexte** : Description du programme de formation et d'accompagnement des franchisés.
 
-### Références du Chapitre 2
-*À compléter lors de la rédaction*
+### Références du Chapitre 2 : Étude de Marché en Tunisie
+
+¹ **Banque Mondiale** - "Tunisia Overview: Development news, research, data" (25 avril 2025)  
+URL : https://www.worldbank.org/en/country/tunisia/overview
+Fiabilité : ★★★★★ (Source primaire, données macroéconomiques officielles)
+
+² **Worldometers** - "Tunisia Population" (18 septembre 2025)  
+URL : https://www.worldometers.info/world-population/tunisia-population/
+Fiabilité : ★★★★☆ (Agrégateur de données des Nations Unies, estimations fiables)
+
+³ **Banque Mondiale** - "Urban population (% of total population) - Tunisia" (2024)  
+URL : https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=TN
+Fiabilité : ★★★★★ (Source primaire, indicateur clé)
+
+⁴ **Banque Africaine de Développement** - "The Middle of the Pyramid: Dynamics of the Middle Class in Africa" (2011)  
+URL : https://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/The%20Middle%20of%20the%20Pyramid_The%20Middle%20of%20the%20Pyramid.pdf
+Fiabilité : ★★★★☆ (Rapport de référence sur la classe moyenne africaine, bien que datant de 2011, les ordres de grandeur restent pertinents)
+
+⁵ **Donnée non sourcée** - Cette donnée sur les revenus moyens provient de l'ancienne version de l'étude et n'a pas pu être vérifiée par une source primaire fiable. Elle est conservée à titre indicatif mais doit être interprétée avec prudence.
+
+⁶ **Euromonitor International** - "Coffee in Tunisia" (2024)  
+URL : https://www.euromonitor.com/coffee-in-tunisia/report
+Fiabilité : ★★★★☆ (Source de référence pour les études de marché, mais nécessite un abonnement pour l'accès complet)
+
+⁷ **FAO** - "Food Balances - Food Balances - Tunisia" (2021)  
+URL : https://www.fao.org/faostat/en/#data/FBS
+Fiabilité : ★★★★☆ (Source fiable pour les données de consommation alimentaire, données de 2021 les plus récentes disponibles)
+
+⁸ **Etude de cas** - "Exploring the effect of origin and variety attributes on consumers preferences toward coffee in Tunisia" (2022)  
+URL : https://repositorio.upct.es/bitstream/handle/10317/11095/tfg-saad-exp.pdf
+Fiabilité : ★★★☆☆ (Thèse universitaire, qualitative mais pertinente pour les tendances)
+
+⁹ **Rapport de tendance** - "The Rise of Specialty Coffee in the Middle East and North Africa" (2023)  
+URL : https://worldcoffeeportal.com/Latest/News/2023/May/The-Rise-of-Specialty-Coffee-in-the-Middle-East-an
+Fiabilité : ★★★★☆ (Source spécialisée reconnue dans l'industrie du café)
+
 
 ### Références du Chapitre 2  
 *À compléter lors de la rédaction*
