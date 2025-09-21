@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+      .slide-container {
+        width: 1280px;
+        min-height: 720px;
+        background-color: #3A2E39;
+        color: #F2EFE9;
+        font-family: 'Open Sans', sans-serif;
+        padding: 40px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto 1fr;
+        grid-gap: 20px;
+      }
+      .title {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        color: #8C7A6B;
+        margin-bottom: 20px;
+        grid-column: span 2;
+      }
+      .content-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+      }
+      .content-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+      }
+      .subtitle {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        color: #BF9D7E;
+        margin-bottom: 10px;
+      }
+      .text {
+        font-size: 20px;
+        line-height: 1.4;
+        margin-bottom: 15px;
+      }
+      .highlight {
+        color: #BF9D7E;
+        font-weight: 600;
+      }
+      .chart-container {
+        height: 350px;
+        width: 100%;
+      }
+      .financing-table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+      }
+      .financing-table th {
+        background-color: rgba(191, 157, 126, 0.2);
+        color: #BF9D7E;
+        font-weight: 600;
+        text-align: left;
+        padding: 10px 12px;
+        font-size: 18px;
+      }
+      .financing-table td {
+        padding: 10px 12px;
+        border-bottom: 1px solid rgba(191, 157, 126, 0.2);
+        font-size: 18px;
+      }
+      .financing-table .amount {
+        text-align: right;
+        font-weight: 600;
+      }
+      .financing-table .total-row td {
+        border-top: 2px solid rgba(191, 157, 126, 0.5);
+        color: #BF9D7E;
+        font-weight: 600;
+      }
+      .advantages {
+        margin-top: 15px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 10px;
+      }
+      .advantage-item {
+        display: flex;
+        align-items: center;
+      }
+      .advantage-icon {
+        color: #BF9D7E;
+        font-size: 18px;
+        margin-right: 10px;
+        width: 18px;
+      }
+      .advantage-text {
+        font-size: 16px;
+        line-height: 1.3;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide-container">
+      <h1 class="title">STRUCTURE DE FINANCEMENT</h1>
+      
+      <div class="content-left">
+        <div>
+          <h2 class="subtitle">Une Stratégie Mixte et Flexible</h2>
+          <p class="text">
+            La stratégie de financement retenue combine la solidité des fonds propres avec la flexibilité du compte courant d'associé.
+          </p>
+          
+          <table class="financing-table">
+            <thead>
+              <tr>
+                <th>Source de Financement</th>
+                <th class="amount">Montant (TND)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Capital Social</td>
+                <td class="amount">100 000</td>
+              </tr>
+              <tr>
+                <td>Compte Courant d'Associé</td>
+                <td class="amount">2 124 910</td>
+              </tr>
+              <tr class="total-row">
+                <td>TOTAL</td>
+                <td class="amount">2 224 910</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        
+        <div class="advantages">
+          <div class="advantage-item">
+            <div class="advantage-icon">
+              <i class="fas fa-check-circle"></i>
+            </div>
+            <div class="advantage-text">
+              <span class="highlight">Simplicité</span> : Capital social raisonnable
+            </div>
+          </div>
+          
+          <div class="advantage-item">
+            <div class="advantage-icon">
+              <i class="fas fa-check-circle"></i>
+            </div>
+            <div class="advantage-text">
+              <span class="highlight">Flexibilité</span> : Remboursement souple
+            </div>
+          </div>
+          
+          <div class="advantage-item">
+            <div class="advantage-icon">
+              <i class="fas fa-check-circle"></i>
+            </div>
+            <div class="advantage-text">
+              <span class="highlight">Autonomie</span> : 100% associé unique
+            </div>
+          </div>
+          
+          <div class="advantage-item">
+            <div class="advantage-icon">
+              <i class="fas fa-check-circle"></i>
+            </div>
+            <div class="advantage-text">
+              <span class="highlight">Optimisation</span> : Sans charges financières
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="content-right">
+        <div class="chart-container">
+          <canvas id="financingChart"></canvas>
+        </div>
+        
+        <div>
+          <h2 class="subtitle">Montage Juridique</h2>
+          <p class="text">
+            Structure juridique : <span class="highlight">Société Unipersonnelle à Responsabilité Limitée (SUARL)</span>, 
+            conciliant simplicité de gestion et protection patrimoniale.
+          </p>
+          <p class="text">
+            Contrat de franchise : <span class="highlight">durée de 5 ans renouvelable</span>, 
+            <span class="highlight">redevance de 6% du CA</span>.
+          </p>
+        </div>
+        
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('financingChart').getContext('2d');
+            
+            const financingChart = new Chart(ctx, {
+              type: 'doughnut',
+              data: {
+                labels: ['Capital Social', 'Compte Courant d\'Associé'],
+                datasets: [{
+                  data: [100000, 2124910],
+                  backgroundColor: [
+                    '#BF9D7E',
+                    '#8C7A6B'
+                  ],
+                  borderColor: '#3A2E39',
+                  borderWidth: 2
+                }]
+              },
+              options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                  legend: {
+                    position: 'bottom',
+                    labels: {
+                      color: '#F2EFE9',
+                      font: {
+                        family: 'Open Sans',
+                        size: 16
+                      },
+                      padding: 15
+                    }
+                  },
+                  title: {
+                    display: true,
+                    text: 'Répartition du Financement',
+                    color: '#BF9D7E',
+                    font: {
+                      family: 'Montserrat',
+                      size: 20,
+                      weight: 'bold'
+                    },
+                    padding: {
+                      bottom: 20
+                    }
+                  },
+                  tooltip: {
+                    callbacks: {
+                      label: function(context) {
+                        const label = context.label || '';
+                        const value = context.raw || 0;
+                        const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                        const percentage = Math.round((value / total) * 100);
+                        return `${label}: ${value.toLocaleString()} TND (${percentage}%)`;
+                      }
+                    }
+                  }
+                }
+              }
+            });
+          });
+        </script>
+      </div>
+    </div>
+  </body>
+</html>

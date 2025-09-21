@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+      .slide-container {
+        width: 1280px;
+        min-height: 720px;
+        background-color: #3A2E39;
+        color: #F2EFE9;
+        font-family: 'Open Sans', sans-serif;
+        padding: 40px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto 1fr;
+        grid-gap: 20px;
+      }
+      .title {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        color: #8C7A6B;
+        margin-bottom: 20px;
+        grid-column: span 2;
+      }
+      .content-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .content-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .subtitle {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        color: #BF9D7E;
+        margin-bottom: 15px;
+      }
+      .text {
+        font-size: 20px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+      }
+      .highlight {
+        color: #BF9D7E;
+        font-weight: 600;
+      }
+      .chart-container {
+        height: 450px;
+        width: 100%;
+      }
+      .financial-table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+      }
+      .financial-table th {
+        background-color: rgba(191, 157, 126, 0.2);
+        color: #BF9D7E;
+        font-weight: 600;
+        text-align: left;
+        padding: 10px 12px;
+        font-size: 16px;
+      }
+      .financial-table td {
+        padding: 10px 12px;
+        border-bottom: 1px solid rgba(191, 157, 126, 0.2);
+        font-size: 16px;
+      }
+      .financial-table .amount {
+        text-align: right;
+      }
+      .financial-table .total-row {
+        font-weight: 600;
+      }
+      .financial-table .total-row td {
+        border-top: 2px solid rgba(191, 157, 126, 0.5);
+        color: #BF9D7E;
+      }
+      .financial-table .negative {
+        color: #F2EFE9;
+      }
+      .financial-table .positive {
+        color: #BF9D7E;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide-container">
+      <h1 class="title">COMPTE DE RÉSULTAT PRÉVISIONNEL</h1>
+      
+      <div class="content-left">
+        <h2 class="subtitle">Évolution sur 5 ans (en milliers de TND)</h2>
+        
+        <table class="financial-table">
+          <thead>
+            <tr>
+              <th>Élément</th>
+              <th class="amount">Année 1</th>
+              <th class="amount">Année 2</th>
+              <th class="amount">Année 3</th>
+              <th class="amount">Année 5</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Chiffre d'Affaires</strong></td>
+              <td class="amount positive">2 250</td>
+              <td class="amount positive">3 465</td>
+              <td class="amount positive">4 912</td>
+              <td class="amount positive">8 499</td>
+            </tr>
+            <tr>
+              <td>Marge Brute (69,1%)</td>
+              <td class="amount positive">1 555</td>
+              <td class="amount positive">2 394</td>
+              <td class="amount positive">3 394</td>
+              <td class="amount positive">5 873</td>
+            </tr>
+            <tr>
+              <td><strong>Charges d'Exploitation</strong></td>
+              <td class="amount negative">(1 226)</td>
+              <td class="amount negative">(1 639)</td>
+              <td class="amount negative">(2 115)</td>
+              <td class="amount negative">(3 254)</td>
+            </tr>
+            <tr>
+              <td>- Masse Salariale</td>
+              <td class="amount negative">(588)</td>
+              <td class="amount negative">(714)</td>
+              <td class="amount negative">(840)</td>
+              <td class="amount negative">(1 092)</td>
+            </tr>
+            <tr>
+              <td>- Loyer</td>
+              <td class="amount negative">(240)</td>
+              <td class="amount negative">(303)</td>
+              <td class="amount negative">(366)</td>
+              <td class="amount negative">(492)</td>
+            </tr>
+            <tr>
+              <td>- Marketing</td>
+              <td class="amount negative">(180)</td>
+              <td class="amount negative">(277)</td>
+              <td class="amount negative">(393)</td>
+              <td class="amount negative">(680)</td>
+            </tr>
+            <tr>
+              <td>- Royalties (6%)</td>
+              <td class="amount negative">(135)</td>
+              <td class="amount negative">(208)</td>
+              <td class="amount negative">(295)</td>
+              <td class="amount negative">(510)</td>
+            </tr>
+            <tr>
+              <td>- Autres Charges</td>
+              <td class="amount negative">(83)</td>
+              <td class="amount negative">(137)</td>
+              <td class="amount negative">(221)</td>
+              <td class="amount negative">(480)</td>
+            </tr>
+            <tr>
+              <td><strong>EBITDA</strong></td>
+              <td class="amount positive">329</td>
+              <td class="amount positive">755</td>
+              <td class="amount positive">1 279</td>
+              <td class="amount positive">2 619</td>
+            </tr>
+            <tr>
+              <td>Amortissements</td>
+              <td class="amount negative">(445)</td>
+              <td class="amount negative">(577)</td>
+              <td class="amount negative">(709)</td>
+              <td class="amount negative">(973)</td>
+            </tr>
+            <tr>
+              <td><strong>EBIT</strong></td>
+              <td class="amount negative">(116)</td>
+              <td class="amount positive">178</td>
+              <td class="amount positive">570</td>
+              <td class="amount positive">1 646</td>
+            </tr>
+            <tr>
+              <td>Impôts (15%)</td>
+              <td class="amount">0</td>
+              <td class="amount negative">(27)</td>
+              <td class="amount negative">(86)</td>
+              <td class="amount negative">(247)</td>
+            </tr>
+            <tr class="total-row">
+              <td><strong>Résultat Net</strong></td>
+              <td class="amount negative">(116)</td>
+              <td class="amount positive">151</td>
+              <td class="amount positive">484</td>
+              <td class="amount positive">1 399</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <div class="content-right">
+        <div class="chart-container">
+          <canvas id="financialChart"></canvas>
+        </div>
+        
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('financialChart').getContext('2d');
+            
+            const financialChart = new Chart(ctx, {
+              type: 'bar',
+              data: {
+                labels: ['Année 1', 'Année 2', 'Année 3', 'Année 4', 'Année 5'],
+                datasets: [
+                  {
+                    label: 'Chiffre d\'Affaires',
+                    data: [2250, 3465, 4912, 6590, 8499],
+                    backgroundColor: '#BF9D7E',
+                    borderColor: '#BF9D7E',
+                    borderWidth: 1
+                  },
+                  {
+                    label: 'EBITDA',
+                    data: [329, 755, 1279, 1901, 2619],
+                    backgroundColor: '#8C7A6B',
+                    borderColor: '#8C7A6B',
+                    borderWidth: 1
+                  },
+                  {
+                    label: 'Résultat Net',
+                    data: [-116, 151, 484, 901, 1399],
+                    backgroundColor: '#A38B7B',
+                    borderColor: '#A38B7B',
+                    borderWidth: 1
+                  }
+                ]
+              },
+              options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                  x: {
+                    grid: {
+                      color: 'rgba(242, 239, 233, 0.1)'
+                    },
+                    ticks: {
+                      color: '#F2EFE9'
+                    }
+                  },
+                  y: {
+                    grid: {
+                      color: 'rgba(242, 239, 233, 0.1)'
+                    },
+                    ticks: {
+                      color: '#F2EFE9',
+                      callback: function(value) {
+                        return value + ' k';
+                      }
+                    },
+                    title: {
+                      display: true,
+                      text: 'Milliers de TND',
+                      color: '#F2EFE9',
+                      font: {
+                        family: 'Open Sans',
+                        size: 14
+                      }
+                    }
+                  }
+                },
+                plugins: {
+                  legend: {
+                    position: 'top',
+                    labels: {
+                      color: '#F2EFE9',
+                      font: {
+                        family: 'Open Sans',
+                        size: 14
+                      },
+                      padding: 20
+                    }
+                  },
+                  title: {
+                    display: true,
+                    text: 'Évolution Financière sur 5 ans',
+                    color: '#BF9D7E',
+                    font: {
+                      family: 'Montserrat',
+                      size: 20,
+                      weight: 'bold'
+                    },
+                    padding: {
+                      bottom: 20
+                    }
+                  },
+                  tooltip: {
+                    callbacks: {
+                      label: function(context) {
+                        const label = context.dataset.label || '';
+                        const value = context.raw || 0;
+                        return `${label}: ${value.toLocaleString()} milliers TND`;
+                      }
+                    }
+                  }
+                }
+              }
+            });
+          });
+        </script>
+      </div>
+    </div>
+  </body>
+</html>

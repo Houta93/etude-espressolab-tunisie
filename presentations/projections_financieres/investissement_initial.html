@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+      .slide-container {
+        width: 1280px;
+        min-height: 720px;
+        background-color: #3A2E39;
+        color: #F2EFE9;
+        font-family: 'Open Sans', sans-serif;
+        padding: 40px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto 1fr;
+        grid-gap: 20px;
+      }
+      .title {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        color: #8C7A6B;
+        margin-bottom: 20px;
+        grid-column: span 2;
+      }
+      .content-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .content-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .subtitle {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        color: #BF9D7E;
+        margin-bottom: 15px;
+      }
+      .text {
+        font-size: 20px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+      }
+      .highlight {
+        color: #BF9D7E;
+        font-weight: 600;
+      }
+      .chart-container {
+        height: 400px;
+        width: 100%;
+      }
+      .investment-table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        margin-top: 20px;
+      }
+      .investment-table th {
+        background-color: rgba(191, 157, 126, 0.2);
+        color: #BF9D7E;
+        font-weight: 600;
+        text-align: left;
+        padding: 12px 15px;
+        font-size: 18px;
+      }
+      .investment-table td {
+        padding: 12px 15px;
+        border-bottom: 1px solid rgba(191, 157, 126, 0.2);
+        font-size: 18px;
+      }
+      .investment-table tr:last-child td {
+        border-bottom: none;
+        font-weight: 600;
+        color: #BF9D7E;
+      }
+      .investment-table .amount {
+        text-align: right;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide-container">
+      <h1 class="title">INVESTISSEMENT INITIAL</h1>
+      
+      <div class="content-left">
+        <div>
+          <h2 class="subtitle">Répartition de l'Investissement</h2>
+          <p class="text">
+            L'investissement total de <span class="highlight">2 224 910 TND</span> se répartit entre le flagship store et la cuisine centrale, 
+            financé à <span class="highlight">100% par fonds propres</span> (sans recours à l'emprunt bancaire).
+          </p>
+        </div>
+        
+        <table class="investment-table">
+          <thead>
+            <tr>
+              <th>Poste d'Investissement</th>
+              <th class="amount">Montant (TND)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Droits de franchise</td>
+              <td class="amount">750 000</td>
+            </tr>
+            <tr>
+              <td>Aménagement du flagship</td>
+              <td class="amount">684 910</td>
+            </tr>
+            <tr>
+              <td>Équipements flagship</td>
+              <td class="amount">250 000</td>
+            </tr>
+            <tr>
+              <td>Cuisine centrale</td>
+              <td class="amount">540 000</td>
+            </tr>
+            <tr>
+              <td><strong>TOTAL</strong></td>
+              <td class="amount">2 224 910</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <div class="content-right">
+        <div class="chart-container">
+          <canvas id="investmentChart"></canvas>
+        </div>
+        
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('investmentChart').getContext('2d');
+            
+            const investmentChart = new Chart(ctx, {
+              type: 'pie',
+              data: {
+                labels: ['Droits de franchise', 'Aménagement du flagship', 'Équipements flagship', 'Cuisine centrale'],
+                datasets: [{
+                  data: [750000, 684910, 250000, 540000],
+                  backgroundColor: [
+                    '#BF9D7E',
+                    '#8C7A6B',
+                    '#A38B7B',
+                    '#917B6C'
+                  ],
+                  borderColor: '#3A2E39',
+                  borderWidth: 2
+                }]
+              },
+              options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                  legend: {
+                    position: 'bottom',
+                    labels: {
+                      color: '#F2EFE9',
+                      font: {
+                        family: 'Open Sans',
+                        size: 16
+                      },
+                      padding: 20
+                    }
+                  },
+                  title: {
+                    display: true,
+                    text: 'Répartition de l\'Investissement Initial (TND)',
+                    color: '#BF9D7E',
+                    font: {
+                      family: 'Montserrat',
+                      size: 20,
+                      weight: 'bold'
+                    },
+                    padding: {
+                      bottom: 30
+                    }
+                  },
+                  tooltip: {
+                    callbacks: {
+                      label: function(context) {
+                        const label = context.label || '';
+                        const value = context.raw || 0;
+                        const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                        const percentage = Math.round((value / total) * 100);
+                        return `${label}: ${value.toLocaleString()} TND (${percentage}%)`;
+                      }
+                    }
+                  }
+                }
+              }
+            });
+          });
+        </script>
+      </div>
+    </div>
+  </body>
+</html>

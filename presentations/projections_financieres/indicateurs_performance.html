@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+      .slide-container {
+        width: 1280px;
+        min-height: 720px;
+        background-color: #3A2E39;
+        color: #F2EFE9;
+        font-family: 'Open Sans', sans-serif;
+        padding: 40px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto 1fr;
+        grid-gap: 20px;
+      }
+      .title {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        color: #8C7A6B;
+        margin-bottom: 20px;
+        grid-column: span 2;
+      }
+      .content-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .content-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .subtitle {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        color: #BF9D7E;
+        margin-bottom: 15px;
+      }
+      .text {
+        font-size: 20px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+      }
+      .highlight {
+        color: #BF9D7E;
+        font-weight: 600;
+      }
+      .chart-container {
+        height: 400px;
+        width: 100%;
+      }
+      .kpi-table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+      }
+      .kpi-table th {
+        background-color: rgba(191, 157, 126, 0.2);
+        color: #BF9D7E;
+        font-weight: 600;
+        text-align: left;
+        padding: 12px 15px;
+        font-size: 18px;
+      }
+      .kpi-table td {
+        padding: 12px 15px;
+        border-bottom: 1px solid rgba(191, 157, 126, 0.2);
+        font-size: 18px;
+      }
+      .kpi-table .value {
+        text-align: right;
+        font-weight: 600;
+        color: #BF9D7E;
+      }
+      .kpi-table .comment {
+        font-style: italic;
+        font-size: 16px;
+      }
+      .sensitivity-container {
+        margin-top: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide-container">
+      <h1 class="title">INDICATEURS DE PERFORMANCE</h1>
+      
+      <div class="content-left">
+        <h2 class="subtitle">Indicateurs Clés de Performance</h2>
+        
+        <table class="kpi-table">
+          <thead>
+            <tr>
+              <th>Indicateur</th>
+              <th>Valeur</th>
+              <th>Commentaire</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>TRI (Taux de Rentabilité Interne)</td>
+              <td class="value">18,2%</td>
+              <td class="comment">Supérieur au coût du capital</td>
+            </tr>
+            <tr>
+              <td>VAN (10%)</td>
+              <td class="value">685 000 TND</td>
+              <td class="comment">Création de valeur significative</td>
+            </tr>
+            <tr>
+              <td>Délai de Récupération</td>
+              <td class="value">3,2 ans</td>
+              <td class="comment">Récupération rapide de l'investissement</td>
+            </tr>
+            <tr>
+              <td>ROI Année 5</td>
+              <td class="value">62,9%</td>
+              <td class="comment">Rentabilité exceptionnelle</td>
+            </tr>
+            <tr>
+              <td>Marge Brute</td>
+              <td class="value">69,1%</td>
+              <td class="comment">Supérieure à la moyenne du secteur</td>
+            </tr>
+            <tr>
+              <td>Marge Nette (Année 2)</td>
+              <td class="value">4,4%</td>
+              <td class="comment">Rentabilité dès la 2ème année</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <div class="content-right">
+        <div class="chart-container">
+          <canvas id="sensitivityChart"></canvas>
+        </div>
+        
+        <div class="sensitivity-container">
+          <h2 class="subtitle">Analyse de Sensibilité</h2>
+          <p class="text">
+            L'analyse de sensibilité démontre la <span class="highlight">robustesse du modèle économique</span>, 
+            même dans un scénario pessimiste (-20% de CA), le projet reste rentable avec un TRI de 12,8%.
+          </p>
+        </div>
+        
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('sensitivityChart').getContext('2d');
+            
+            const sensitivityChart = new Chart(ctx, {
+              type: 'bar',
+              data: {
+                labels: ['TRI (%)', 'VAN (100k TND)', 'Délai de Récupération (années)'],
+                datasets: [
+                  {
+                    label: 'Scénario Pessimiste (-20% CA)',
+                    data: [12.8, 2.85, 4.1],
+                    backgroundColor: '#8C7A6B',
+                    borderColor: '#8C7A6B',
+                    borderWidth: 1
+                  },
+                  {
+                    label: 'Scénario de Base',
+                    data: [18.2, 6.85, 3.2],
+                    backgroundColor: '#BF9D7E',
+                    borderColor: '#BF9D7E',
+                    borderWidth: 1
+                  },
+                  {
+                    label: 'Scénario Optimiste (+20% CA)',
+                    data: [24.7, 11.85, 2.6],
+                    backgroundColor: '#A38B7B',
+                    borderColor: '#A38B7B',
+                    borderWidth: 1
+                  }
+                ]
+              },
+              options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                  x: {
+                    grid: {
+                      color: 'rgba(242, 239, 233, 0.1)'
+                    },
+                    ticks: {
+                      color: '#F2EFE9'
+                    }
+                  },
+                  y: {
+                    grid: {
+                      color: 'rgba(242, 239, 233, 0.1)'
+                    },
+                    ticks: {
+                      color: '#F2EFE9'
+                    },
+                    title: {
+                      display: true,
+                      text: 'Valeur',
+                      color: '#F2EFE9',
+                      font: {
+                        family: 'Open Sans',
+                        size: 14
+                      }
+                    }
+                  }
+                },
+                plugins: {
+                  legend: {
+                    position: 'top',
+                    labels: {
+                      color: '#F2EFE9',
+                      font: {
+                        family: 'Open Sans',
+                        size: 14
+                      },
+                      padding: 20
+                    }
+                  },
+                  title: {
+                    display: true,
+                    text: 'Analyse de Sensibilité',
+                    color: '#BF9D7E',
+                    font: {
+                      family: 'Montserrat',
+                      size: 20,
+                      weight: 'bold'
+                    },
+                    padding: {
+                      bottom: 20
+                    }
+                  }
+                }
+              }
+            });
+          });
+        </script>
+      </div>
+    </div>
+  </body>
+</html>
