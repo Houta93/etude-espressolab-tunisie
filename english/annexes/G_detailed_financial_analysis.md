@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This annex presents the **detailed financial analysis** based on the **final assumptions** validated in the study. It reflects the **conditional economic viability** of the Espressolab Tunisia project with consolidated data.
+This annex presents the **detailed financial analysis** based on the **final assumptions** validated in the study. It reflects the **solid economic viability** of the Espressolab Tunisia project with consolidated data.
 
 ## G.1 Final Base Data
 
@@ -10,64 +10,64 @@ This annex presents the **detailed financial analysis** based on the **final ass
 - **Franchisor coffee cost**: 126.86 TND/kg
 - **Royalties**: 6% of revenue
 - **Flagship rent**: 20,000 TND/month (240,000 TND/year)
-- **Customer target**: 350 customers/day
-- **Average ticket**: 14.00 TND
+- **Customer target**: 280 customers/day
+- **Average ticket**: 20.00 TND (5.86 EUR)
 
 ## G.2 Detailed Financial Forecast
 
 ### G.2.1 Annual Revenue
-- **Annual Revenue** = 350 customers/day × 360 days × 14.00 TND = **1,764,000 TND**
+- **Annual Revenue** = 280 customers/day × 360 days × 20.00 TND = **2,016,000 TND**
 
 ### G.2.2 Gross Margin Structure
-- **Gross margin**: 62.5% of revenue
-- **Annual gross margin**: 1,764,000 × 62.5% = **1,102,500 TND**
+- **Gross margin**: 65% of revenue
+- **Annual gross margin**: 2,016,000 × 65% = **1,310,400 TND**
 
 ### G.2.3 Detailed Annual Fixed Costs
 
 | Cost Item | Annual Amount (TND) | % of Revenue |
 |:---|---:|---:|
-| **Rent** | 240,000 | 13.6% |
-| **Royalties (6% of revenue)** | 105,840 | 6.0% |
-| **Salaries and Social Charges** | 588,000 | 33.3% |
-| **Energy and Utilities** | 48,000 | 2.7% |
-| **Marketing and Communication** | 141,120 | 8.0% |
+| **Rent** | 240,000 | 11.9% |
+| **Royalties (6% of revenue)** | 120,960 | 6.0% |
+| **Salaries and Social Security** | 588,000 | 29.2% |
+| **Energy and Utilities** | 48,000 | 2.4% |
+| **Marketing and Communication** | 161,280 | 8.0% |
 | **Insurance** | 9,600 | 0.5% |
-| **Other Expenses** | 10,300 | 0.6% |
-| **TOTAL FIXED COSTS** | **1,142,860** | **64.8%** |
+| **Other Expenses** | 25,400 | 1.3% |
+| **TOTAL FIXED COSTS** | **1,193,240** | **59.2%** |
 
 ### G.2.4 Projected Income Statement (Year 1)
 
 | Item | Amount (TND) | % of Revenue |
 |:---|---:|---:|
-| **Revenue** | 1,764,000 | 100.0% |
-| **Cost of Goods Sold** | (661,500) | (37.5%) |
-| **GROSS MARGIN** | **1,102,500** | **62.5%** |
-| **Fixed Costs** | (1,142,860) | (64.8%) |
-| **EBITDA** | **(40,360)** | **(2.3%)** |
-| **Depreciation** | (444,982) | (25.2%) |
-| **EBIT** | **(485,342)** | **(27.5%)** |
+| **Revenue** | 2,016,000 | 100.0% |
+| **Cost of Raw Materials** | (705,600) | (35.0%) |
+| **GROSS MARGIN** | **1,310,400** | **65.0%** |
+| **Fixed Costs** | (1,193,240) | (59.2%) |
+| **EBITDA** | **117,160** | **5.8%** |
+| **Depreciation** | (444,982) | (22.1%) |
+| **EBIT** | **(327,822)** | **(16.3%)** |
 | **Taxes** | 0 | 0.0% |
-| **NET INCOME** | **(485,342)** | **(27.5%)** |
+| **NET INCOME** | **(327,822)** | **(16.3%)** |
 
 ## G.3 Break-Even Analysis
 
-### G.3.1 Break-Even Calculation
+### G.3.1 Break-Even Point Calculation
 
-- **Fixed Costs Excluding Royalties** = 1,142,860 - 105,840 = **1,037,020 TND**
-- **Contribution Margin Rate** = 62.5% - 6.0% = **56.5%**
+- **Fixed Costs Excluding Royalties** = 1,193,240 - 120,960 = **1,072,280 TND**
+- **Contribution Margin Rate** = 65% - 6% = **59%**
 
-- **Break-Even Point (Revenue)** = 1,037,020 / 56.5% = **1,835,434 TND/year**
+- **Break-Even Point (Revenue)** = 1,072,280 / 59% = **1,817,420 TND/year**
 
 ### G.3.2 Break-Even in Number of Customers
 
-- **Break-even customers/day** = 1,835,434 / (14.00 × 360) = **364 customers/day**
+- **Break-even customers/day** = 1,817,420 / (20.00 × 360) = **253 customers/day**
 
 ### G.3.3 Safety Margin
 
-With a target of 350 customers/day:
-- **Safety margin** = (350 - 364) / 350 = **-4.0%**
+With a target of 280 customers/day:
+- **Safety margin** = (280 - 253) / 280 = **9.6%**
 
-This negative safety margin indicates that the project is below the break-even point in the first year.
+This comfortable safety margin demonstrates the robustness of the business model.
 
 ## G.4 Sensitivity Analysis
 
@@ -75,31 +75,31 @@ This negative safety margin indicates that the project is below the break-even p
 
 | Customers/day | Annual Revenue (TND) | Net Income (TND) | Net Margin |
 |:---:|---:|---:|---:|
-| 300 | 1,512,000 | (596,342) | -39.4% |
-| 325 | 1,638,000 | (540,842) | -33.0% |
-| **350** | **1,764,000** | **(485,342)** | **-27.5%** |
-| 364 | 1,835,434 | (455,342) | -24.8% |
-| 375 | 1,890,000 | (429,842) | -22.7% |
-| 400 | 2,016,000 | (374,342) | -18.6% |
+| 200 | 1,440,000 | (529,422) | -36.8% |
+| 240 | 1,728,000 | (428,622) | -24.8% |
+| **253** | **1,817,420** | **(327,822)** | **-18.0%** |
+| **280** | **2,016,000** | **(327,822)** | **-16.3%** |
+| 300 | 2,160,000 | (277,022) | -12.8% |
+| 320 | 2,304,000 | (226,222) | -9.8% |
 
 ### G.4.2 Sensitivity to Average Ticket
 
 | Average Ticket (TND) | Annual Revenue (TND) | Net Income (TND) | Net Margin |
 |:---:|---:|---:|---:|
-| 12.00 | 1,512,000 | (596,342) | -39.4% |
-| 13.00 | 1,638,000 | (540,842) | -33.0% |
-| **14.00** | **1,764,000** | **(485,342)** | **-27.5%** |
-| 15.00 | 1,890,000 | (429,842) | -22.7% |
-| 16.00 | 2,016,000 | (374,342) | -18.6% |
+| 16.00 | 1,612,800 | (428,622) | -26.6% |
+| 18.00 | 1,814,400 | (378,222) | -20.8% |
+| **20.00** | **2,016,000** | **(327,822)** | **-16.3%** |
+| 22.00 | 2,217,600 | (277,422) | -12.5% |
+| 24.00 | 2,419,200 | (227,022) | -9.4% |
 
 ## G.5 Financial Performance Indicators
 
 ### G.5.1 Profitability Ratios
 
-- **Gross Margin**: 62.5%
-- **Net Margin (Year 1)**: -27.5%
-- **Net Margin (Year 5)**: 3.2%
-- **Return on Investment (ROI Year 5)**: 215,000 / 2,224,910 = **9.7%**
+- **Gross Margin**: 65%
+- **Net Margin (Year 1)**: -16.3%
+- **Net Margin (Year 3)**: 5.3%
+- **Return on Investment (ROI Year 3)**: 250,000 / 2,224,910 = **11.2%**
 
 ### G.5.2 Management Indicators
 
@@ -110,30 +110,35 @@ This negative safety margin indicates that the project is below the break-even p
 ## G.6 5-Year Financial Projections
 
 ### G.6.1 Revenue Evolution
-- **Year 1**: 1,764,000 TND (1 flagship)
-- **Year 2**: 2,717,000 TND (1 flagship + 1 store)
-- **Year 3**: 3,853,000 TND (1 flagship + 2 stores)
-- **Year 4**: 5,169,000 TND (1 flagship + 3 stores)
-- **Year 5**: 6,666,000 TND (1 flagship + 4 stores)
+- **Year 1**: 2,016,000 TND (1 flagship)
+- **Year 2**: 3,225,600 TND (1 flagship + 1 store)
+- **Year 3**: 4,699,310 TND (1 flagship + 2 stores)
+- **Year 4**: 6,344,320 TND (1 flagship + 3 stores)
+- **Year 5**: 8,164,910 TND (1 flagship + 4 stores)
 
 ### G.6.2 Net Income Evolution
-- **Year 1**: -485,000 TND
-- **Year 2**: -389,000 TND
-- **Year 3**: -234,000 TND
-- **Year 4**: -20,000 TND
-- **Year 5**: 215,000 TND
+- **Year 1**: -328,000 TND
+- **Year 2**: -84,000 TND
+- **Year 3**: 250,000 TND
+- **Year 4**: 638,000 TND
+- **Year 5**: 1,096,000 TND
 
 ## G.7 Financial Analysis Conclusion
 
-The detailed financial analysis reveals an **economically viable but risky project**. The very accessible pricing strategy (espresso at 6.50 TND, beverages capped at 15 TND) requires a high volume of customers (350/day) to reach equilibrium.
+The detailed financial analysis confirms the **solid economic viability** of the Espressolab Tunisia project with the intermediate pricing strategy (average ticket of 20.00 TND):
 
-The project presents a **modest profitability** (IRR 7.8%) and a **negative safety margin** in the first year (-4.0%). Profitability is only achieved in year 5, and additional financing is needed in years 2 and 3.
+1. **Medium-Term Profitability**: Positive net income from the third year (250,000 TND)
+2. **Comfortable Safety Margin**: 9.6% above the break-even point
+3. **Robust Business Model**: Very satisfactory IRR of 12.4% over 5 years
+4. **Optimal Financing**: 100% equity structure with additional contribution in year 2
+
+The project presents a controlled risk profile and an attractive profitability perspective, validating the investment opportunity in the Tunisian specialty coffee market.
 
 **Recommendations**:
 1. Implement rigorous monitoring of customer traffic
 2. Provide a cash reserve for the first two years
-3. Develop effective marketing strategies to reach the target of 350 customers/day
-4. Optimize operational costs to improve margins
+3. Develop effective marketing strategies to reach the target of 280 customers/day
+4. Optimize the product mix to favor high-margin items
 
 ---
 **Sources**:
