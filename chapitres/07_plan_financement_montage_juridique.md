@@ -27,10 +27,10 @@ Le tableau suivant détaille l'équilibre entre les emplois et les ressources po
 
 | Emplois | Montant (TND) | Montant (EUR) | Ressources | Montant (TND) | Montant (EUR) |
 | :--- | ---: | ---: | :--- | ---: | ---: |
-| **Investissements Incorporels** | 750 000 | 219 750 | **Capital Social** | 100 000 | 29 300 |
-| - Droits de franchise | 750 000 | 219 750 | | | |
-| **Investissements Corporels** | 1 474 910 | 432 148 | **Compte Courant d'Associé** | 2 124 910 | 622 598 |
-| - Flagship Store | 934 910 | 273 928 | | | |
+| **Investissements Incorporels** | 250 000 | 73 250 | **Capital Social** | 100 000 | 29 300 |
+| - Droits de franchise | 250 000 | 73 250 | | | |
+| **Investissements Corporels** | 1 974 910 | 578 648 | **Compte Courant d'Associé** | 2 124 910 | 622 598 |
+| - Flagship Store | 1 434 910 | 420 428 | | | |
 | - Cuisine Centrale | 540 000 | 158 220 | | | |
 | **Besoin en Fonds de Roulement** | 0 | 0 | | | |
 | **Total Emplois** | **2 224 910** | **651 898** | **Total Ressources** | **2 224 910** | **651 898** |
@@ -87,7 +87,7 @@ Le contrat de franchise avec Espressolab est au cœur du montage juridique. Il d
 - **Durée** : 5 ans, renouvelable par tacite reconduction
 - **Exclusivité territoriale** : Par ville, avec un rayon de protection de 1,5 km autour de chaque point de vente
 - **Redevances** : 6% du chiffre d'affaires net, payables mensuellement
-- **Droit d'entrée** : 750 000 TND (219 750 EUR) pour l'exclusivité nationale
+- **Droit d'entrée** : 250 000 TND (73 250 EUR) pour l'exclusivité nationale
 - **Obligations du franchiseur** :
   - Fourniture du savoir-faire et des méthodes opérationnelles
   - Formation initiale et continue des équipes
@@ -267,10 +267,10 @@ La mise en œuvre du projet suivra un calendrier précis, avec des jalons clés 
 | Mois | Jalon | Responsable | Budget (TND) |
 | :---: | :--- | :--- | ---: |
 | M1 | Constitution juridique de la SUARL | Avocat | 3 500 |
-| M1 | Signature du contrat de franchise | Direction | 750 000 |
+| M1 | Signature du contrat de franchise | Direction | 250 000 |
 | M2 | Sélection du local pour le flagship | Direction | 10 000 |
 | M3 | Dépôt du permis d'aménagement | Architecte | 5 000 |
-| M4 | Début des travaux d'aménagement | Entreprise générale | 934 910 |
+| M4 | Début des travaux d'aménagement | Entreprise générale | 1 434 910 |
 | M5 | Installation des équipements | Fournisseurs | 540 000 |
 | M6 | Formation des équipes | Franchiseur | 25 000 |
 | M6 | Ouverture du flagship store | Direction | 50 000 |
