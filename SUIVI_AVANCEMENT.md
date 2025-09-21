@@ -16,7 +16,7 @@
 
 ### ✅ Phase 2 : Rédaction des Chapitres (TERMINÉE)
 - [x] Chapitre 0 : Résumé Exécutif (100% complété)
-- [x] Chapitre 1 : Présentation du projet et du franchiseur (100% complété)
+- [x] Chapitre 1 : Présentation du projet et du franchiseur (100% complété - RÉVISÉ ET VALIDÉ)
 - [x] Chapitre 2 : Étude de marché en Tunisie (100% complété)
 - [x] Chapitre 3 : Stratégie marketing et commerciale (100% complété)
 - [x] Chapitre 4 : Étude technique et opérationnelle (100% complété)
