@@ -48,11 +48,12 @@
 
 ### ✅ Données Financières Unifiées
 Tous les chapitres utilisent les **mêmes données cohérentes** :
-- **Ticket moyen** : 25,00 TND
-- **Investissement total** : 2 224 910 TND
-- **Objectif clientèle** : 250 clients/jour
-- **Résultat net Année 2** : +151 000 TND
-- **Seuil de rentabilité** : 167 clients/jour
+- **Ticket moyen** : 20,00 TND (5,86 EUR)
+- **Investissement total** : 2 224 910 TND (651 898 EUR)
+- **Objectif clientèle** : 280 clients/jour
+- **Résultat net Année 3** : +250 000 TND (73 250 EUR)
+- **Seuil de rentabilité** : 253 clients/jour
+- **Droits d'entrée franchise** : 250 000 USD (725 000 TND)
 
 ### ✅ Sources Documentées
 - **435 références** bibliographiques

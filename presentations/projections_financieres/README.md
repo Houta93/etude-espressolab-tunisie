@@ -1,1 +1,29 @@
-# Présentation des Projections Financières Espressolab Tunisie\n\nCette présentation contient les slides des projections financières mises à jour pour le projet Espressolab Tunisie.\n\n## Contenu\n\n- Page de titre\n- Contexte du projet\n- Hypothèses financières clés\n- Investissement initial\n- Compte de résultat prévisionnel\n- Seuil de rentabilité\n- Indicateurs de performance\n- Structure de financement\n- Conclusion et recommandations\n\n## Données clés\n\n- Investissement total : 2 224 910 TND\n- Clientèle cible : 250 clients/jour\n- Ticket moyen : 25,00 TND\n- TRI sur 5 ans : 18,2%\n- VAN (10%) : 685 000 TND\n- Seuil de rentabilité : 167 clients/jour\n\n## Date de création\n\n21 septembre 2024
+# Présentation des Projections Financières Espressolab Tunisie
+
+Cette présentation contient les slides des projections financières mises à jour pour le projet Espressolab Tunisie.
+
+## Contenu
+
+- Page de titre
+- Contexte du projet
+- Hypothèses financières clés
+- Investissement initial
+- Compte de résultat prévisionnel
+- Seuil de rentabilité
+- Indicateurs de performance
+- Structure de financement
+- Conclusion et recommandations
+
+## Données clés
+
+- Investissement total : 2 224 910 TND (651 898 EUR)
+- Clientèle cible : 280 clients/jour
+- Ticket moyen : 20,00 TND (5,86 EUR)
+- TRI sur 5 ans : 12,4%
+- VAN (10%) : 435 000 TND (127 455 EUR)
+- Seuil de rentabilité : 253 clients/jour
+- Droits d'entrée franchise : 250 000 USD (725 000 TND)
+
+## Date de création
+
+21 septembre 2024
