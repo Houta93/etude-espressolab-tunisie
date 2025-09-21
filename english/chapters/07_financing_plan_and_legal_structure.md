@@ -27,10 +27,10 @@ The following table details the balance between uses and sources of funds for th
 
 | Uses | Amount (TND) | Amount (EUR) | Sources | Amount (TND) | Amount (EUR) |
 | :--- | ---: | ---: | :--- | ---: | ---: |
-| **Intangible Investments** | 250,000 | 73,250 | **Share Capital** | 100,000 | 29,300 |
-| - Franchise rights | 250,000 | 73,250 | | | |
-| **Tangible Investments** | 1,974,910 | 578,648 | **Shareholder Current Account** | 2,124,910 | 622,598 |
-| - Flagship Store | 1,434,910 | 420,428 | | | |
+| **Intangible Investments** | 725,000 | 212,425 | **Share Capital** | 100,000 | 29,300 |
+| - Franchise rights (250,000 USD) | 725,000 | 212,425 | | | |
+| **Tangible Investments** | 1,499,910 | 439,473 | **Shareholder Current Account** | 2,124,910 | 622,598 |
+| - Flagship Store | 959,910 | 281,253 | | | |
 | - Central Kitchen | 540,000 | 158,220 | | | |
 | **Working Capital Requirement** | 0 | 0 | | | |
 | **Total Uses** | **2,224,910** | **651,898** | **Total Sources** | **2,224,910** | **651,898** |
@@ -87,7 +87,7 @@ The franchise agreement with Espressolab is at the heart of the legal structure.
 - **Duration**: 5 years, renewable by tacit renewal
 - **Territorial exclusivity**: By city, with a protection radius of 1.5 km around each point of sale
 - **Royalties**: 6% of net revenue, payable monthly
-- **Entry fee**: 250,000 TND (73,250 EUR) for national exclusivity
+- **Entry fee**: 250,000 USD (725,000 TND) for national exclusivity
 - **Franchisor obligations**:
   - Provision of know-how and operational methods
   - Initial and ongoing team training
@@ -267,10 +267,10 @@ The project implementation will follow a precise schedule, with key milestones t
 | Month | Milestone | Responsible | Budget (TND) |
 | :---: | :--- | :--- | ---: |
 | M1 | Legal incorporation of SUARL | Lawyer | 3,500 |
-| M1 | Signing of franchise agreement | Management | 250,000 |
+| M1 | Signing of franchise agreement | Management | 725,000 |
 | M2 | Selection of flagship location | Management | 10,000 |
 | M3 | Filing of development permit | Architect | 5,000 |
-| M4 | Start of development work | General contractor | 1,434,910 |
+| M4 | Start of development work | General contractor | 959,910 |
 | M5 | Equipment installation | Suppliers | 540,000 |
 | M6 | Team training | Franchisor | 25,000 |
 | M6 | Flagship store opening | Management | 50,000 |
