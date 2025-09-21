@@ -23,7 +23,7 @@
 - **Tax Rate**: 15% on profits
 - **Depreciation**: Straight-line over 5 years for fixed assets
 - **Gross Margin**: 65% (intermediate pricing strategy)
-- **Exchange Rate**: 1 EUR = 3.41 TND (rate used for conversion)
+- **Exchange Rate**: 1 EUR = 3.41 TND, 1 USD = 2.90 TND (rates used for conversion)
 
 ## 6.2 Consolidated Income Statement Forecast (5 years)
 
@@ -123,4 +123,4 @@ The project deserves a **very favorable opinion** for its implementation, with t
 1. Internal calculations based on Espressolab data and market analysis
 2. Assumptions validated by the Tunisian market study
 3. Benchmarks from the Tunisian coffee/fast food sector
-4. Exchange rate: 1 EUR = 3.41 TND (September 2024)
+4. Exchange rates: 1 EUR = 3.41 TND, 1 USD = 2.90 TND (September 2024)

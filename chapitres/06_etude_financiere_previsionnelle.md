@@ -23,7 +23,7 @@
 - **Taux d'imposition** : 15% sur les bénéfices
 - **Amortissement** : Linéaire sur 5 ans pour les immobilisations
 - **Marge brute** : 65% (stratégie de prix intermédiaire)
-- **Taux de change** : 1 EUR = 3,41 TND (taux utilisé pour la conversion)
+- **Taux de change** : 1 EUR = 3,41 TND, 1 USD = 2,90 TND (taux utilisés pour la conversion)
 
 ## 6.2 Compte de Résultat Prévisionnel Consolidé (5 ans)
 
@@ -123,4 +123,4 @@ Le projet mérite un **avis très favorable** pour sa mise en œuvre, avec les r
 1. Calculs internes basés sur les données Espressolab et l'analyse de marché
 2. Hypothèses validées par l'étude de marché tunisienne
 3. Benchmarks sectoriels café/restauration rapide Tunisie
-4. Taux de change : 1 EUR = 3,41 TND (septembre 2024)
+4. Taux de change : 1 EUR = 3,41 TND, 1 USD = 2,90 TND (septembre 2024)
