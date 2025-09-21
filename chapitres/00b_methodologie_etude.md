@@ -32,7 +32,7 @@ Les projections du marché du café s'appuient sur une **croissance sectorielle 
 
 ### Hypothèses Opérationnelles
 
-Les prévisions d'activité reposent sur des **hypothèses opérationnelles conservatrices** : 200 clients par jour en régime de croisière, ticket moyen de 23,70 TND et taux de marge brute de 69,1%. Ces paramètres, calibrés sur les performances du réseau Espressolab international et ajustés aux spécificités du marché tunisien, garantissent la robustesse des projections.
+Les prévisions d'activité reposent sur des **hypothèses opérationnelles réalistes** : 250 clients par jour en régime de croisière, ticket moyen de 25,00 TND et taux de marge brute de 69,1%. Ces paramètres, calibrés sur les performances du réseau Espressolab international et ajustés aux spécificités du marché tunisien, garantissent la robustesse des projections.
 
 ## Méthodes d'Analyse et Outils Utilisés
 

@@ -14,9 +14,9 @@ Enfin, une structure de bilan saine et sans endettement positionne idéalement l
 
 ### 7.1.2 Impact sur les Indicateurs de Performance
 
-La stratégie de financement par fonds propres, combinée aux hypothèses d'exploitation finales (200 clients/jour, panier moyen de 23,70 TND), ancre solidement la rentabilité du projet.
+La stratégie de financement par fonds propres, combinée aux hypothèses d'exploitation finales (250 clients/jour, panier moyen de 25,00 TND), ancre solidement la rentabilité du projet.
 
-Le **résultat net positif et substantiel dès l'année 1** (359 702 TND) est le premier marqueur de cette performance. Il témoigne de la capacité du modèle économique à générer des profits rapidement, assurant ainsi la pérennité de l'entreprise.
+Le **retour à l'équilibre dès l'année 2** (151 000 TND de résultat net) et la **rentabilité attractive sur 5 ans** (TRI de 18,2%) témoignent de la solidité du modèle économique et de sa capacité à générer une création de valeur significative.
 
 En conséquence, les principaux indicateurs de rentabilité de l'investissement sont excellents. L'analyse détaillée présentée en **Annexe G** confirme :
 

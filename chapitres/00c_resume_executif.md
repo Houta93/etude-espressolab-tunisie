@@ -13,12 +13,12 @@ Le tableau suivant présente les indicateurs de performance consolidés qui conf
 | Indicateur | Valeur | Commentaire |
 | :--- | :--- | :--- |
 | **Investissement Total** | **2 224 910 TND**¹ | Flagship Store + Cuisine Centrale, 100% fonds propres |
-| **Chiffre d'Affaires (An 1)** | **1 706 400 TND**¹ | Basé sur 200 clients/jour |
-| **Ticket Moyen** | **23,70 TND**¹ | Positionnement premium accessible |
+| **Chiffre d'Affaires (An 1)** | **2 250 000 TND**¹ | Basé sur 250 clients/jour |
+| **Ticket Moyen** | **25,00 TND**¹ | Positionnement accessible et attractif |
 | **Marge Brute** | **69,1%**¹ | Performance supérieure à la moyenne du secteur |
-| **Résultat Net (An 1)** | **359 702 TND**¹ | Rentabilité dès la première année (21,1%) |
-| **Seuil de Rentabilité** | **133 clients/jour**¹ | Marge de sécurité de 33,5% |
-| **Retour sur Investissement (An 1)** | **15,7%**¹ | Performance attractive |
+| **Résultat Net (An 2)** | **151 000 TND**¹ | Rentabilité dès la deuxième année |
+| **TRI sur 5 ans** | **18,2%**¹ | Performance attractive |
+| **VAN (10%)** | **685 000 TND**¹ | Création de valeur significative |
 
 ## Contexte et Opportunité de Marché
 
@@ -30,7 +30,7 @@ Espressolab, une marque turque établie avec **390 établissements dans 17 pays*
 
 La stratégie repose sur une **excellence opérationnelle** (standards internationaux, formation certifiée) et une **structure financière solide**. L'absence de dette bancaire élimine les charges financières et maximise la rentabilité dès le premier exercice.
 
-Les prévisions, basées sur des hypothèses prudentes (200 clients/jour pour un seuil de rentabilité à 133)¹, démontrent une trajectoire de croissance saine et une création de valeur significative pour l'investisseur.
+Les prévisions, basées sur des hypothèses réalistes (250 clients/jour, ticket moyen 25 TND)¹, démontrent une trajectoire de croissance saine et une création de valeur significative pour l'investisseur.
 
 ## Conclusion et Recommandation
 
