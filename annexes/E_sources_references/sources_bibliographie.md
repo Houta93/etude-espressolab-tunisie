@@ -306,3 +306,14 @@ Fiabilité : ★★★★☆ (Source spécialisée reconnue dans l'industrie du 
 ---
 
 *Dernière mise à jour : [Date automatique]*
+
+
+
+### Références du Chapitre 3 : Stratégie Marketing et Commerciale
+
+¹⁰ **Analyse Interne** - Référence aux conclusions du Chapitre 2 (Étude de Marché).
+   - **Fiabilité** : ★★★★★ (Source primaire, analyse interne validée)
+
+¹¹ **Données Financières Internes** - Référence aux projections du Chapitre 6 (Étude Financière).
+   - **Fiabilité** : ★★★★★ (Source primaire, calculs internes validés)
+
