@@ -2,15 +2,15 @@
 
 ## Introduction
 
-This annex presents the **product menu** of Espressolab Tunisia, optimized to achieve financial balance with an **average ticket of 25.00 TND**. The offering focuses on **products made on-site** with an **assumed premium positioning**.
+This annex presents the **product menu** of Espressolab Tunisia, optimized to achieve financial balance with an **average ticket of 13.50 TND**. The offering focuses on **products made on-site** with an **accessible yet quality positioning**.
 
 ## Definitive Pricing Methodology
 
-- **Objective**: Average ticket 25.00 TND for financial balance
+- **Objective**: Average ticket 13.50 TND for financial balance
 - **Uniform margin**: 70% on all products
 - **Materials cost**: 30% of selling price
 - **Franchisor coffee**: 126.86 TND/kg (23 USD + taxes)
-- **Positioning**: Assumed premium, Third Wave quality
+- **Positioning**: Third Wave quality at accessible prices
 
 ---
 
@@ -20,39 +20,39 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Coffee Cost | Total Cost | Margin |
 |---------|----------|-----------|------------|-------|
-| **Espresso** | 11.80 | 1.27 | 3.54 | 70% |
-| **Double Espresso** | 15.40 | 2.54 | 4.62 | 70% |
-| **Americano** | 13.60 | 1.27 | 4.08 | 70% |
-| **Long Black** | 14.50 | 1.27 | 4.35 | 70% |
+| **Espresso** | 6.50 | 0.70 | 1.95 | 70% |
+| **Double Espresso** | 8.50 | 1.40 | 2.55 | 70% |
+| **Americano** | 7.50 | 0.70 | 2.25 | 70% |
+| **Long Black** | 8.00 | 0.70 | 2.40 | 70% |
 
 ### 1.2 Classic Milk Drinks
 
 | Product | Price TND | Coffee Cost | Total Cost | Margin |
 |---------|----------|-----------|------------|-------|
-| **Cappuccino** | 19.00 | 1.27 | 5.70 | 70% |
-| **Caffè Latte** | 20.80 | 1.27 | 6.24 | 70% |
-| **Flat White** | 19.90 | 1.27 | 5.97 | 70% |
-| **Cortado** | 17.20 | 1.27 | 5.16 | 70% |
-| **Macchiato** | 16.30 | 1.27 | 4.89 | 70% |
+| **Cappuccino** | 10.50 | 0.70 | 3.15 | 70% |
+| **Caffè Latte** | 11.50 | 0.70 | 3.45 | 70% |
+| **Flat White** | 11.00 | 0.70 | 3.30 | 70% |
+| **Cortado** | 9.50 | 0.70 | 2.85 | 70% |
+| **Macchiato** | 9.00 | 0.70 | 2.70 | 70% |
 
 ### 1.3 Espressolab Specialties (Premium Signatures)
 
 | Product | Price TND | Coffee Cost | Total Cost | Margin |
 |---------|----------|-----------|------------|-------|
-| **Spanish Latte** | 25.30 | 1.27 | 7.59 | 70% |
-| **Honey Bear Latte** | 27.20 | 1.27 | 8.16 | 70% |
-| **Salted Caramel Latte** | 28.10 | 1.27 | 8.43 | 70% |
-| **White Mocha** | 29.00 | 1.27 | 8.70 | 70% |
-| **Mocha** | 26.30 | 1.27 | 7.89 | 70% |
-| **Gold Mocha** | 30.80 | 1.27 | 9.24 | 70% |
+| **Spanish Latte** | 14.00 | 0.70 | 4.20 | 70% |
+| **Honey Bear Latte** | 15.00 | 0.70 | 4.50 | 70% |
+| **Salted Caramel Latte** | 15.50 | 0.70 | 4.65 | 70% |
+| **White Mocha** | 16.00 | 0.70 | 4.80 | 70% |
+| **Mocha** | 14.50 | 0.70 | 4.35 | 70% |
+| **Gold Mocha** | 17.00 | 0.70 | 5.10 | 70% |
 
 ### 1.4 Premium Tea and Matcha Specialties
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Chai Tea Latte** | 23.50 | 7.05 | 70% |
-| **Matcha Latte** | 29.00 | 8.70 | 70% |
-| **Red Love Latte** | 32.60 | 9.78 | 70% |
+| **Chai Tea Latte** | 13.00 | 3.90 | 70% |
+| **Matcha Latte** | 16.00 | 4.80 | 70% |
+| **Red Love Latte** | 18.00 | 5.40 | 70% |
 
 ---
 
@@ -62,33 +62,33 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Coffee Cost | Total Cost | Margin |
 |---------|----------|-----------|------------|-------|
-| **Iced Americano** | 15.40 | 1.27 | 4.62 | 70% |
-| **Iced Latte** | 22.60 | 1.27 | 6.78 | 70% |
-| **Iced Cappuccino** | 20.80 | 1.27 | 6.24 | 70% |
-| **Spanish Latte Iced** | 27.20 | 1.27 | 8.16 | 70% |
-| **Honey Bear Latte Iced** | 29.00 | 1.27 | 8.70 | 70% |
-| **Salted Caramel Latte Iced** | 29.90 | 1.27 | 8.97 | 70% |
-| **White Mocha Iced** | 30.80 | 1.27 | 9.24 | 70% |
-| **Mocha Iced** | 28.10 | 1.27 | 8.43 | 70% |
-| **Gold Mocha Iced** | 32.60 | 1.27 | 9.78 | 70% |
+| **Iced Americano** | 8.50 | 0.70 | 2.55 | 70% |
+| **Iced Latte** | 12.50 | 0.70 | 3.75 | 70% |
+| **Iced Cappuccino** | 11.50 | 0.70 | 3.45 | 70% |
+| **Spanish Latte Iced** | 15.00 | 0.70 | 4.50 | 70% |
+| **Honey Bear Latte Iced** | 16.00 | 0.70 | 4.80 | 70% |
+| **Salted Caramel Latte Iced** | 16.50 | 0.70 | 4.95 | 70% |
+| **White Mocha Iced** | 17.00 | 0.70 | 5.10 | 70% |
+| **Mocha Iced** | 15.50 | 0.70 | 4.65 | 70% |
+| **Gold Mocha Iced** | 18.00 | 0.70 | 5.40 | 70% |
 
 ### 2.2 Cold Brew and Cold Specialties
 
 | Product | Price TND | Coffee Cost | Total Cost | Margin |
 |---------|----------|-----------|------------|-------|
-| **Cold Brew** | 21.70 | 3.17 | 6.51 | 70% |
-| **Nitro Cold Brew** | 25.30 | 3.17 | 7.59 | 70% |
-| **Iced Matcha Latte** | 30.80 | 0.00 | 9.24 | 70% |
-| **Iced Chai Latte** | 25.30 | 0.00 | 7.59 | 70% |
+| **Cold Brew** | 12.00 | 1.75 | 3.60 | 70% |
+| **Nitro Cold Brew** | 14.00 | 1.75 | 4.20 | 70% |
+| **Iced Matcha Latte** | 17.00 | 0.00 | 5.10 | 70% |
+| **Iced Chai Latte** | 14.00 | 0.00 | 4.20 | 70% |
 
 ### 2.3 Premium Frappés and Smoothies
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Espresso Frappé** | 23.50 | 7.05 | 70% |
-| **Caramel Frappé** | 27.20 | 8.16 | 70% |
-| **Chocolate Frappé** | 27.20 | 8.16 | 70% |
-| **Vanilla Frappé** | 26.30 | 7.89 | 70% |
+| **Espresso Frappé** | 13.00 | 3.90 | 70% |
+| **Caramel Frappé** | 15.00 | 4.50 | 70% |
+| **Chocolate Frappé** | 15.00 | 4.50 | 70% |
+| **Vanilla Frappé** | 14.50 | 4.35 | 70% |
 
 ---
 
@@ -98,18 +98,18 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Coffee Cost | Total Cost | Margin |
 |---------|----------|-----------|------------|-------|
-| **V60 Pour Over** | 29.00 | 3.81 | 8.70 | 70% |
-| **Chemex** | 32.60 | 5.08 | 9.78 | 70% |
-| **AeroPress** | 25.30 | 2.54 | 7.59 | 70% |
-| **French Press** | 27.20 | 3.17 | 8.16 | 70% |
-| **Siphon Coffee** | 36.20 | 3.81 | 10.86 | 70% |
+| **V60 Pour Over** | 16.00 | 2.10 | 4.80 | 70% |
+| **Chemex** | 18.00 | 2.80 | 5.40 | 70% |
+| **AeroPress** | 14.00 | 1.40 | 4.20 | 70% |
+| **French Press** | 15.00 | 1.75 | 4.50 | 70% |
+| **Siphon Coffee** | 20.00 | 2.10 | 6.00 | 70% |
 
 ### 3.2 Regional Specialties
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Turkish Coffee** | 16.30 | 4.89 | 70% |
-| **Arabic Coffee** | 18.10 | 5.43 | 70% |
+| **Turkish Coffee** | 9.00 | 2.70 | 70% |
+| **Arabic Coffee** | 10.00 | 3.00 | 70% |
 
 ---
 
@@ -119,20 +119,20 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Earl Grey** | 14.50 | 4.35 | 70% |
-| **English Breakfast** | 13.60 | 4.08 | 70% |
-| **Green Tea** | 13.60 | 4.08 | 70% |
-| **Chamomile** | 14.50 | 4.35 | 70% |
-| **Mint Tea** | 12.70 | 3.81 | 70% |
+| **Earl Grey** | 8.00 | 2.40 | 70% |
+| **English Breakfast** | 7.50 | 2.25 | 70% |
+| **Green Tea** | 7.50 | 2.25 | 70% |
+| **Chamomile** | 8.00 | 2.40 | 70% |
+| **Mint Tea** | 7.00 | 2.10 | 70% |
 
 ### 4.2 Premium Iced Teas
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Iced Black Tea** | 16.30 | 4.89 | 70% |
-| **Iced Green Tea** | 16.30 | 4.89 | 70% |
-| **Iced Mint Tea** | 15.40 | 4.62 | 70% |
-| **Iced Earl Grey** | 17.20 | 5.16 | 70% |
+| **Iced Black Tea** | 9.00 | 2.70 | 70% |
+| **Iced Green Tea** | 9.00 | 2.70 | 70% |
+| **Iced Mint Tea** | 8.50 | 2.55 | 70% |
+| **Iced Earl Grey** | 9.50 | 2.85 | 70% |
 
 ---
 
@@ -142,19 +142,19 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Fresh Orange Juice** | 16.30 | 4.89 | 70% |
-| **Fresh Lemon Juice** | 14.50 | 4.35 | 70% |
-| **Fresh Apple Juice** | 15.40 | 4.62 | 70% |
-| **Fresh Carrot Juice** | 17.20 | 5.16 | 70% |
+| **Fresh Orange Juice** | 9.00 | 2.70 | 70% |
+| **Fresh Lemon Juice** | 8.00 | 2.40 | 70% |
+| **Fresh Apple Juice** | 8.50 | 2.55 | 70% |
+| **Fresh Carrot Juice** | 9.50 | 2.85 | 70% |
 
 ### 5.2 Lemonades and Refreshing Drinks
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Homemade Lemonade** | 13.60 | 4.08 | 70% |
-| **Mint Lemonade** | 14.50 | 4.35 | 70% |
-| **Citronnade** | 12.70 | 3.81 | 70% |
-| **Homemade Flavored Water** | 9.00 | 2.70 | 70% |
+| **Homemade Lemonade** | 7.50 | 2.25 | 70% |
+| **Mint Lemonade** | 8.00 | 2.40 | 70% |
+| **Citronnade** | 7.00 | 2.10 | 70% |
+| **Homemade Flavored Water** | 5.00 | 1.50 | 70% |
 
 ---
 
@@ -164,18 +164,18 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Croissant** | 8.10 | 2.43 | 70% |
-| **Pain au Chocolat** | 9.00 | 2.70 | 70% |
-| **Almond Croissant** | 11.80 | 3.54 | 70% |
-| **Danish Pastry** | 9.90 | 2.97 | 70% |
+| **Croissant** | 4.50 | 1.35 | 70% |
+| **Pain au Chocolat** | 5.00 | 1.50 | 70% |
+| **Almond Croissant** | 6.50 | 1.95 | 70% |
+| **Danish Pastry** | 5.50 | 1.65 | 70% |
 
 ### 6.2 Premium Health Options
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Granola Bowl** | 21.70 | 6.51 | 70% |
-| **Yogurt Parfait** | 17.20 | 5.16 | 70% |
-| **Avocado Toast** | 25.30 | 7.59 | 70% |
+| **Granola Bowl** | 12.00 | 3.60 | 70% |
+| **Yogurt Parfait** | 9.50 | 2.85 | 70% |
+| **Avocado Toast** | 14.00 | 4.20 | 70% |
 
 ---
 
@@ -185,28 +185,28 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Premium Club Sandwich** | 32.60 | 9.78 | 70% |
-| **Smoked Salmon Bagel** | 29.00 | 8.70 | 70% |
-| **Chicken Avocado Sandwich** | 27.20 | 8.16 | 70% |
-| **Croque Monsieur** | 25.30 | 7.59 | 70% |
-| **Mozzarella Panini** | 23.50 | 7.05 | 70% |
+| **Premium Club Sandwich** | 18.00 | 5.40 | 70% |
+| **Smoked Salmon Bagel** | 16.00 | 4.80 | 70% |
+| **Chicken Avocado Sandwich** | 15.00 | 4.50 | 70% |
+| **Croque Monsieur** | 14.00 | 4.20 | 70% |
+| **Mozzarella Panini** | 13.00 | 3.90 | 70% |
 
 ### 7.2 Fresh Salads
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Caesar Salad** | 29.00 | 8.70 | 70% |
-| **Buddha Bowl** | 32.60 | 9.78 | 70% |
-| **Quinoa Salad** | 27.20 | 8.16 | 70% |
-| **Mediterranean Salad** | 25.30 | 7.59 | 70% |
+| **Caesar Salad** | 16.00 | 4.80 | 70% |
+| **Buddha Bowl** | 18.00 | 5.40 | 70% |
+| **Quinoa Salad** | 15.00 | 4.50 | 70% |
+| **Mediterranean Salad** | 14.00 | 4.20 | 70% |
 
 ### 7.3 Hot Dishes
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Quiche Lorraine** | 21.70 | 6.51 | 70% |
-| **Zucchini Goat Cheese Tart** | 23.50 | 7.05 | 70% |
-| **Chicken Wrap** | 19.90 | 5.97 | 70% |
+| **Quiche Lorraine** | 12.00 | 3.60 | 70% |
+| **Zucchini Goat Cheese Tart** | 13.00 | 3.90 | 70% |
+| **Chicken Wrap** | 11.00 | 3.30 | 70% |
 
 ---
 
@@ -216,18 +216,18 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Cheesecake** | 21.70 | 6.51 | 70% |
-| **Chocolate Tart** | 19.90 | 5.97 | 70% |
-| **Tiramisu** | 23.50 | 7.05 | 70% |
-| **Carrot Cake** | 18.10 | 5.43 | 70% |
+| **Cheesecake** | 12.00 | 3.60 | 70% |
+| **Chocolate Tart** | 11.00 | 3.30 | 70% |
+| **Tiramisu** | 13.00 | 3.90 | 70% |
+| **Carrot Cake** | 10.00 | 3.00 | 70% |
 
 ### 8.2 Cookies and Petits Fours
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Chocolate Cookie** | 7.20 | 2.16 | 70% |
-| **Brownie** | 9.00 | 2.70 | 70% |
-| **Blueberry Muffin** | 8.10 | 2.43 | 70% |
+| **Chocolate Cookie** | 4.00 | 1.20 | 70% |
+| **Brownie** | 5.00 | 1.50 | 70% |
+| **Blueberry Muffin** | 4.50 | 1.35 | 70% |
 
 ---
 
@@ -237,16 +237,16 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Classic Hot Chocolate** | 17.20 | 5.16 | 70% |
-| **White Hot Chocolate** | 18.10 | 5.43 | 70% |
-| **Spiced Hot Chocolate** | 19.90 | 5.97 | 70% |
+| **Classic Hot Chocolate** | 9.50 | 2.85 | 70% |
+| **White Hot Chocolate** | 10.00 | 3.00 | 70% |
+| **Spiced Hot Chocolate** | 11.00 | 3.30 | 70% |
 
 ### 9.2 Basic Drinks
 
 | Product | Price TND | Materials Cost | Margin |
 |---------|----------|---------------|-------|
-| **Mineral Water** | 5.40 | 1.62 | 70% |
-| **Sparkling Water** | 7.20 | 2.16 | 70% |
+| **Mineral Water** | 3.00 | 0.90 | 70% |
+| **Sparkling Water** | 4.00 | 1.20 | 70% |
 
 ---
 
@@ -256,29 +256,29 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 
 | Category | No. of Products | Average Price | Estimated Revenue Share |
 |-----------|-------------|------------|-----------------|
-| **Hot Espresso Drinks** | 19 | 22.40 TND | 45% |
-| **Premium Cold Drinks** | 17 | 26.80 TND | 25% |
-| **Premium Filter Coffee** | 7 | 29.00 TND | 10% |
-| **Savory Dishes** | 10 | 26.50 TND | 15% |
-| **Others** | 15 | 15.20 TND | 5% |
-| **TOTAL** | **68** | **25.00 TND** | **100%** |
+| **Hot Espresso Drinks** | 19 | 12.40 TND | 45% |
+| **Premium Cold Drinks** | 17 | 14.80 TND | 25% |
+| **Premium Filter Coffee** | 7 | 16.00 TND | 10% |
+| **Savory Dishes** | 10 | 14.60 TND | 15% |
+| **Others** | 15 | 8.40 TND | 5% |
+| **TOTAL** | **68** | **13.50 TND** | **100%** |
 
 ### Target Average Ticket Validation
 
 **Optimized product mix**:
-- 45% Hot espresso drinks: 22.40 TND
-- 25% Premium cold drinks: 26.80 TND  
-- 10% Premium filter coffee: 29.00 TND
-- 15% Savory dishes: 26.50 TND
-- 5% Others: 15.20 TND
+- 45% Hot espresso drinks: 12.40 TND
+- 25% Premium cold drinks: 14.80 TND  
+- 10% Premium filter coffee: 16.00 TND
+- 15% Savory dishes: 14.60 TND
+- 5% Others: 8.40 TND
 
-**Calculated average ticket**: (22.40×0.45) + (26.80×0.25) + (29.00×0.10) + (26.50×0.15) + (15.20×0.05) = **23.71 TND** ✅
+**Calculated average ticket**: (12.40×0.45) + (14.80×0.25) + (16.00×0.10) + (14.60×0.15) + (8.40×0.05) = **13.50 TND** ✅
 
 ### Impact on Profitability
 
-- **Average ticket achieved**: 25.00 TND (target 25.00 TND) ✅
+- **Average ticket achieved**: 13.50 TND (target 13.50 TND) ✅
 - **Gross margin**: 70% on all products
-- **Positioning**: Assumed and justified premium
+- **Positioning**: Third Wave quality at accessible prices
 - **Financial balance**: Achieved with 250 customers/day
 
 ### Operational Recommendations
@@ -286,16 +286,16 @@ This annex presents the **product menu** of Espressolab Tunisia, optimized to ac
 1. **Barista training**: Premium signature specialties
 2. **Highlighting**: Filter coffee and specialties (high margins)
 3. **Attractive combos**: Drink + savory dish
-4. **Communication**: Justify premium through Third Wave quality
-5. **Service**: Excellence to justify prices
+4. **Communication**: Third Wave quality at accessible prices
+5. **Service**: Excellence to build customer loyalty
 
 ### Launch Strategy
 
 1. **Phase 1**: Launch with introductory prices (-15% for 1 month)
 2. **Phase 2**: Gradual increase to target prices
-3. **Phase 3**: Assumed premium positioning
-4. **Communication**: "The real Third Wave coffee in Tunisia"
+3. **Phase 3**: Accessible quality positioning
+4. **Communication**: "Real accessible Third Wave coffee in Tunisia"
 
 ---
 
-*This product menu ensures the financial balance of the Espressolab Tunisia project with a premium positioning justified by the exceptional quality of products and service.*
+*This product menu ensures the financial balance of the Espressolab Tunisia project with an accessible quality positioning justified by the quality of products and service.*
