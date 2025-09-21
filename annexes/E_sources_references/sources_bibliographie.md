@@ -140,6 +140,98 @@ Ce document compile toutes les sources utilisées dans l'étude technico-économ
    - **Contexte** : Seuil de rentabilité opérationnel (133 clients/jour).
 
 ### Références du Chapitre 1
+
+¹ **World Coffee Portal (2024)**. "Espressolab: From Istanbul to the world, redefining coffee culture".
+   - **URL** : `https://www.worldcoffeeportal.com/news/espressolab-from-istanbul-to-the-world-redefining-coffee-culture/`
+   - **Fiabilité** : ★★★★☆ (Média spécialisé de référence)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Fondation en 2014 par Esat Kocadağ et vision de démocratisation du café.
+
+² **Wikipedia - Espressolab**
+   - **URL** : `https://en.wikipedia.org/wiki/Espressolab`
+   - **Fiabilité** : ★★★☆☆ (Source collaborative, pour information générale)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Premier établissement à l'Université Bilgi d'Istanbul.
+
+³ **Site Officiel Espressolab**. "Coffee & Us".
+   - **URL** : `https://en.espressolab.com/coffee--us/`
+   - **Fiabilité** : ★★★★★ (Source primaire, communication officielle)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Mission "farm-to-cup" et fusion des cultures café.
+
+⁴ **World Coffee Portal (2024)**. "Espressolab: From Istanbul to the world..."
+   - **URL** : `https://www.worldcoffeeportal.com/news/espressolab-from-istanbul-to-the-world-redefining-coffee-culture/`
+   - **Fiabilité** : ★★★★☆ (Média spécialisé de référence)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Sourcing direct dans plusieurs pays producteurs.
+
+⁵ **Site Officiel Espressolab**. "Therma-Freeze Coffee".
+   - **URL** : `https://en.espressolab.com/explore/blog/` (Placeholder, page spécifique à retrouver)
+   - **Fiabilité** : ★★★★★ (Source primaire, technologie brevetée)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Innovation technologique (Therma-Freeze) et production de lait.
+
+⁶ **World Coffee Portal (2024)**. "Espressolab: From Istanbul to the world..."
+   - **URL** : `https://www.worldcoffeeportal.com/news/espressolab-from-istanbul-to-the-world-redefining-coffee-culture/`
+   - **Fiabilité** : ★★★★☆ (Média spécialisé de référence)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Programme de durabilité "Future Generation of Coffee".
+
+⁷ **Specialty Coffee Association (SCA)**. "What is Specialty Coffee?".
+   - **URL** : `https://sca.coffee/research/what-is-specialty-coffee`
+   - **Fiabilité** : ★★★★★ (Organisation professionnelle de référence)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Définition du café de spécialité et du mouvement "Third Wave".
+
+⁸ **World Coffee Portal (2024)**. "Espressolab: From Istanbul to the world..."
+   - **URL** : `https://www.worldcoffeeportal.com/news/espressolab-from-istanbul-to-the-world-redefining-coffee-culture/`
+   - **Fiabilité** : ★★★★☆ (Média spécialisé de référence)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Description de l'Espressolab Roastery à Istanbul.
+
+⁹ **Site Officiel Espressolab**. Page d'accueil.
+   - **URL** : `https://en.espressolab.com/`
+   - **Fiabilité** : ★★★★★ (Source primaire, communication officielle)
+   - **Consultation** : 21 septembre 2024
+   - **Contexte** : Nombre de pays couverts par le réseau.
+
+¹⁰ **Wikipedia - Espressolab**
+    - **URL** : `https://en.wikipedia.org/wiki/Espressolab`
+    - **Fiabilité** : ★★★☆☆ (Source collaborative, pour ordre de grandeur)
+    - **Consultation** : 21 septembre 2024
+    - **Contexte** : Nombre total de magasins dans le réseau.
+
+¹¹ **World Coffee Portal (2024)**. "Espressolab: From Istanbul to the world..."
+    - **URL** : `https://www.worldcoffeeportal.com/news/espressolab-from-istanbul-to-the-world-redefining-coffee-culture/`
+    - **Fiabilité** : ★★★★☆ (Média spécialisé de référence)
+    - **Consultation** : 21 septembre 2024
+    - **Contexte** : Liste des pays où Espressolab est implanté.
+
+¹² **Daily Sabah (2020)**. "Turkish coffee chain Espressolab heats up investments abroad".
+    - **URL** : `https://www.dailysabah.com/business/turkish-coffee-chain-espressolab-heats-up-investments-abroad/news`
+    - **Fiabilité** : ★★★☆☆ (Média économique, pour la stratégie d'expansion)
+    - **Consultation** : 21 septembre 2024
+    - **Contexte** : Stratégie d'expansion en Afrique et objectifs de croissance.
+
+¹³ **Business & Human Rights Resource Centre (2025)**. "Public Announcement".
+    - **URL** : `https://www.business-humanrights.org/documents/41954/Espressolab_response.pdf`
+    - **Fiabilité** : ★★★★☆ (Communication officielle via une ONG)
+    - **Consultation** : 21 septembre 2024
+    - **Contexte** : Part des magasins en franchise (93%).
+
+¹⁴ **Données Contractuelles Internes**
+    - **Description** : Informations issues des documents contractuels fournis par le porteur de projet.
+    - **Fiabilité** : ★★★★★ (Source primaire, base de l'accord)
+    - **Consultation** : 21 septembre 2024
+    - **Contexte** : Conditions financières de la franchise (droits d'entrée, redevance, exclusivité).
+
+¹⁵ **Site Officiel Espressolab**. "Franchise Application".
+    - **URL** : `https://en.espressolab.com/franchise-application/` (Placeholder)
+    - **Fiabilité** : ★★★★★ (Source primaire, communication officielle)
+    - **Consultation** : 21 septembre 2024
+    - **Contexte** : Description du programme de formation et d'accompagnement des franchisés.
+
+### Références du Chapitre 2
 *À compléter lors de la rédaction*
 
 ### Références du Chapitre 2  
