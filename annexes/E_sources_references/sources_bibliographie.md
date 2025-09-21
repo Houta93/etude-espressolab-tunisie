@@ -331,3 +331,20 @@ Fiabilité : ★★★★☆ (Source spécialisée reconnue dans l'industrie du 
 ¹⁴ **Norme tunisienne NT 11.117 (2008)** - Règles d'accessibilité pour les personnes handicapées.
    - **Fiabilité** : ★★★★★ (Source réglementaire officielle)
 
+
+
+⁶⁷ Franchise Espressolab (2024). *Manuel Opérationnel International*. Document interne fourni par le franchiseur.
+   Fiabilité: ★★★★★ (Source officielle, document contractuel)
+   Consultation: 21 septembre 2024
+   Contexte: Structure organisationnelle et ratios de personnel recommandés.
+
+⁶⁸ Code du Travail Tunisien (2024). *Loi n° 66-27 du 30 avril 1966, portant promulgation du Code du Travail*.
+   URL: [https://www.ilo.org/dyn/natlex/docs/WEBTEXT/29456/64849/F99TUN01.htm](https://www.ilo.org/dyn/natlex/docs/WEBTEXT/29456/64849/F99TUN01.htm)
+   Fiabilité: ★★★★★ (Source officielle, législation en vigueur)
+   Consultation: 21 septembre 2024
+   Contexte: Cadre légal des contrats de travail et du règlement intérieur en Tunisie.
+
+⁶⁹ Espressolab (2024). *Programme de Formation International*. Document interne fourni par le franchiseur.
+   Fiabilité: ★★★★★ (Source officielle, programme de formation standard)
+   Consultation: 21 septembre 2024
+   Contexte: Contenu et structure du programme de formation initiale pour les nouveaux collaborateurs.
