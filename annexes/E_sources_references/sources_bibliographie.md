@@ -348,3 +348,9 @@ Fiabilité : ★★★★☆ (Source spécialisée reconnue dans l'industrie du 
    Fiabilité: ★★★★★ (Source officielle, programme de formation standard)
    Consultation: 21 septembre 2024
    Contexte: Contenu et structure du programme de formation initiale pour les nouveaux collaborateurs.
+
+
+⁷⁰ Données consolidées des chapitres précédents de l'étude.
+   Fiabilité: ★★★★★ (Source interne, cohérence assurée)
+   Consultation: 21 septembre 2024
+   Contexte: Hypothèses financières basées sur les analyses des chapitres 2, 3, 4 et 5.
