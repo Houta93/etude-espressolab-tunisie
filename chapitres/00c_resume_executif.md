@@ -12,7 +12,7 @@ Le tableau suivant présente les indicateurs de performance consolidés qui conf
 
 | Indicateur | Valeur | Commentaire |
 | :--- | :--- | :--- |
-| **Investissement Total** | **2 283 656 TND**¹ | 100% fonds propres, pas de dette |
+| **Investissement Total** | **2 224 910 TND**¹ | Flagship Store + Cuisine Centrale, 100% fonds propres |
 | **Chiffre d'Affaires (An 1)** | **1 706 400 TND**¹ | Basé sur 200 clients/jour |
 | **Ticket Moyen** | **23,70 TND**¹ | Positionnement premium accessible |
 | **Marge Brute** | **69,1%**¹ | Performance supérieure à la moyenne du secteur |

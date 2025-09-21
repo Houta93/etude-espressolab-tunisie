@@ -317,3 +317,17 @@ Fiabilité : ★★★★☆ (Source spécialisée reconnue dans l'industrie du 
 ¹¹ **Données Financières Internes** - Référence aux projections du Chapitre 6 (Étude Financière).
    - **Fiabilité** : ★★★★★ (Source primaire, calculs internes validés)
 
+
+
+
+### Références du Chapitre 4 : Étude Technique et Opérationnelle
+
+¹² **Données internes du Franchiseur** - Basé sur les documents de franchise Espressolab.
+   - **Fiabilité** : ★★★★★ (Source primaire, données contractuelles)
+
+¹³ **Analyse Interne** - Référence aux conclusions du Chapitre 2 (Analyse des Localisations).
+   - **Fiabilité** : ★★★★★ (Source primaire, analyse interne validée)
+
+¹⁴ **Norme tunisienne NT 11.117 (2008)** - Règles d'accessibilité pour les personnes handicapées.
+   - **Fiabilité** : ★★★★★ (Source réglementaire officielle)
+
