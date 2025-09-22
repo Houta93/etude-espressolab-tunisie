@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+      .slide-container {
+        width: 1280px;
+        height: 720px;
+        background: #ffffff;
+        color: #1a1a1a;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        position: relative;
+        overflow: hidden;
+      }
+      .background-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        opacity: 0.8;
+        z-index: 0;
+      }
+      .content-overlay {
+        position: relative;
+        z-index: 1;
+        height: 100%;
+        width: 100%;
+        background: linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.7) 100%);
+      }
+      .logo {
+        max-width: 300px;
+        height: auto;
+      }
+      .title-box {
+        background-color: rgba(255, 255, 255, 0.9);
+        border-left: 8px solid #e31e24;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide-container">
+      <!-- Remplacer le chemin de l'image par une image appropriée pour le chapitre -->
+      <img src="/chemin/vers/image_de_fond.jpg" alt="Espressolab Background" class="background-image">
+      <div class="content-overlay flex flex-col justify-between p-10">
+        <div class="flex justify-end">
+          <!-- Utiliser le logo officiel Espressolab -->
+          <img src="/chemin/vers/logo_espressolab.png" alt="Espressolab Logo" class="logo">
+        </div>
+        
+        <div class="mb-16">
+          <div class="title-box inline-block p-6 max-w-2xl">
+            <!-- Remplacer par le numéro et le titre du chapitre -->
+            <h1 class="text-5xl font-bold mb-4">Chapitre X</h1>
+            <h2 class="text-3xl font-semibold">Titre du Chapitre</h2>
+          </div>
+        </div>
+        
+        <div class="text-white text-right">
+          <p class="text-xl">Étude de Faisabilité Espressolab Tunisie</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

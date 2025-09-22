@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+      .slide-container {
+        width: 1280px;
+        min-height: 720px;
+        background: #ffffff;
+        color: #1a1a1a;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+      .slide-title {
+        color: #1a1a1a;
+        border-bottom: 3px solid #e31e24;
+        display: inline-block;
+        padding-bottom: 8px;
+      }
+      .accent-text {
+        color: #e31e24;
+      }
+      .brown-text {
+        color: #d4a574;
+      }
+      .content-box {
+        border-left: 4px solid #e31e24;
+        background-color: #f8f9fa;
+      }
+      .content-icon {
+        color: #d4a574;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide-container p-10">
+      <!-- Remplacer par le titre de la section -->
+      <h1 class="slide-title text-3xl font-bold mb-6">Titre de la Section</h1>
+      
+      <div class="grid grid-cols-2 gap-8">
+        <!-- Colonne de gauche -->
+        <div>
+          <div class="mb-4">
+            <!-- Remplacer par le sous-titre de la section -->
+            <h2 class="text-2xl font-semibold mb-3">Sous-titre Principal</h2>
+            
+            <!-- Contenu principal - Remplacer par le contenu réel -->
+            <p class="mb-4">
+              Texte d'introduction expliquant le concept principal de cette section. Ce paragraphe doit être concis et présenter clairement l'idée principale du slide.
+            </p>
+            
+            <div class="space-y-3">
+              <!-- Boîte de contenu 1 - Répéter/modifier selon les besoins -->
+              <div class="content-box p-3">
+                <div class="flex items-start">
+                  <div class="mr-3 mt-1">
+                    <!-- Choisir une icône appropriée -->
+                    <i class="fas fa-star content-icon text-xl"></i>
+                  </div>
+                  <div>
+                    <h3 class="text-lg font-bold mb-1">Point clé 1</h3>
+                    <p class="text-sm">Description détaillée du premier point clé. Inclure des données spécifiques et des informations pertinentes tirées du chapitre.</p>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Boîte de contenu 2 -->
+              <div class="content-box p-3">
+                <div class="flex items-start">
+                  <div class="mr-3 mt-1">
+                    <i class="fas fa-check-circle content-icon text-xl"></i>
+                  </div>
+                  <div>
+                    <h3 class="text-lg font-bold mb-1">Point clé 2</h3>
+                    <p class="text-sm">Description détaillée du deuxième point clé. Inclure des données spécifiques et des informations pertinentes tirées du chapitre.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Colonne de droite -->
+        <div>
+          <div class="mb-4">
+            <!-- Image illustrative - Remplacer par une image pertinente -->
+            <img src="/chemin/vers/image.jpg" alt="Description de l'image" class="w-full h-48 object-cover rounded-lg shadow-lg mb-4">
+            
+            <!-- Sous-titre secondaire -->
+            <h2 class="text-2xl font-semibold mb-3">Sous-titre Secondaire</h2>
+            
+            <!-- Liste à puces - Remplacer par le contenu réel -->
+            <ul class="space-y-2 mb-4">
+              <li class="flex items-center">
+                <i class="fas fa-circle accent-text text-xs mr-2"></i>
+                <span>Premier élément de la liste avec <span class="font-semibold">information importante</span> mise en évidence.</span>
+              </li>
+              <li class="flex items-center">
+                <i class="fas fa-circle accent-text text-xs mr-2"></i>
+                <span>Deuxième élément de la liste avec <span class="font-semibold">information importante</span> mise en évidence.</span>
+              </li>
+              <li class="flex items-center">
+                <i class="fas fa-circle accent-text text-xs mr-2"></i>
+                <span>Troisième élément de la liste avec <span class="font-semibold">information importante</span> mise en évidence.</span>
+              </li>
+            </ul>
+            
+            <!-- Encadré de synthèse -->
+            <div class="bg-gray-100 p-3 rounded-lg">
+              <h3 class="text-lg font-semibold mb-2">Synthèse</h3>
+              <p class="text-sm">
+                Résumé des points clés présentés dans ce slide. Cette section doit capturer l'essence des informations présentées et souligner leur importance dans le contexte global du chapitre.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

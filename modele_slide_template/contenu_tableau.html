@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+      .slide-container {
+        width: 1280px;
+        min-height: 720px;
+        background: #ffffff;
+        color: #1a1a1a;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+      .slide-title {
+        color: #1a1a1a;
+        border-bottom: 3px solid #e31e24;
+        display: inline-block;
+        padding-bottom: 8px;
+      }
+      .accent-text {
+        color: #e31e24;
+      }
+      .brown-text {
+        color: #d4a574;
+      }
+      .table-header {
+        background-color: #1a1a1a;
+        color: white;
+      }
+      .table-row-even {
+        background-color: #f8f9fa;
+      }
+      .highlight-row {
+        background-color: rgba(227, 30, 36, 0.1);
+      }
+      .highlight-cell {
+        font-weight: bold;
+        color: #e31e24;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide-container p-10">
+      <!-- Remplacer par le titre de la section -->
+      <h1 class="slide-title text-3xl font-bold mb-6">Titre de la Section avec Tableau</h1>
+      
+      <div class="grid grid-cols-2 gap-8">
+        <!-- Colonne de gauche -->
+        <div>
+          <div class="mb-4">
+            <!-- Remplacer par le sous-titre de la section -->
+            <h2 class="text-2xl font-semibold mb-3">Présentation des Données</h2>
+            
+            <!-- Introduction au tableau - Remplacer par le contenu réel -->
+            <p class="mb-4">
+              Texte d'introduction expliquant l'importance des données présentées dans le tableau. Ce paragraphe doit mettre en contexte les informations et souligner leur pertinence pour le projet Espressolab.
+            </p>
+            
+            <!-- Tableau principal - Adapter selon les besoins -->
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm">
+                <thead>
+                  <tr class="table-header">
+                    <!-- Remplacer par les en-têtes réels -->
+                    <th class="p-2 text-left">Catégorie</th>
+                    <th class="p-2 text-right">Valeur 1</th>
+                    <th class="p-2 text-right">Valeur 2</th>
+                    <th class="p-2 text-right">Valeur 3</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- Remplacer par les données réelles - Répéter les lignes selon les besoins -->
+                  <tr>
+                    <td class="p-2 font-medium">Ligne 1</td>
+                    <td class="p-2 text-right">100</td>
+                    <td class="p-2 text-right">200</td>
+                    <td class="p-2 text-right">300</td>
+                  </tr>
+                  <tr class="table-row-even">
+                    <td class="p-2 font-medium">Ligne 2</td>
+                    <td class="p-2 text-right">150</td>
+                    <td class="p-2 text-right">250</td>
+                    <td class="p-2 text-right">350</td>
+                  </tr>
+                  <tr class="highlight-row">
+                    <td class="p-2 font-medium">Ligne 3 (importante)</td>
+                    <td class="p-2 text-right">175</td>
+                    <td class="p-2 text-right highlight-cell">280</td>
+                    <td class="p-2 text-right">375</td>
+                  </tr>
+                  <tr class="table-row-even">
+                    <td class="p-2 font-medium">Ligne 4</td>
+                    <td class="p-2 text-right">125</td>
+                    <td class="p-2 text-right">225</td>
+                    <td class="p-2 text-right">325</td>
+                  </tr>
+                  <tr>
+                    <td class="p-2 font-medium">Ligne 5</td>
+                    <td class="p-2 text-right">110</td>
+                    <td class="p-2 text-right">210</td>
+                    <td class="p-2 text-right">310</td>
+                  </tr>
+                </tbody>
+                <tfoot>
+                  <tr class="table-header">
+                    <td class="p-2 font-medium">Total</td>
+                    <td class="p-2 text-right">660</td>
+                    <td class="p-2 text-right">1165</td>
+                    <td class="p-2 text-right">1660</td>
+                  </tr>
+                </tfoot>
+              </table>
+            </div>
+            
+            <!-- Note explicative du tableau -->
+            <p class="text-xs mt-2 text-gray-600 italic">
+              Source: Données issues de l'étude de faisabilité Espressolab Tunisie, chapitre X, section Y.
+            </p>
+          </div>
+        </div>
+        
+        <!-- Colonne de droite -->
+        <div>
+          <div class="mb-4">
+            <!-- Remplacer par le sous-titre de la section -->
+            <h2 class="text-2xl font-semibold mb-3">Analyse et Implications</h2>
+            
+            <!-- Image illustrative - Remplacer par une image pertinente -->
+            <img src="/chemin/vers/image.jpg" alt="Description de l'image" class="w-full h-40 object-cover rounded-lg shadow-lg mb-4">
+            
+            <!-- Points d'analyse - Remplacer par le contenu réel -->
+            <div class="space-y-3 mb-4">
+              <div class="bg-gray-100 p-3 rounded-lg">
+                <h3 class="font-semibold flex items-center">
+                  <i class="fas fa-lightbulb brown-text mr-2"></i>
+                  Point d'analyse 1
+                </h3>
+                <p class="text-sm">
+                  Explication détaillée du premier point d'analyse basé sur les données du tableau. Mettre en évidence les tendances importantes et leur signification pour le projet.
+                </p>
+              </div>
+              
+              <div class="bg-gray-100 p-3 rounded-lg">
+                <h3 class="font-semibold flex items-center">
+                  <i class="fas fa-lightbulb brown-text mr-2"></i>
+                  Point d'analyse 2
+                </h3>
+                <p class="text-sm">
+                  Explication détaillée du deuxième point d'analyse basé sur les données du tableau. Mettre en évidence les tendances importantes et leur signification pour le projet.
+                </p>
+              </div>
+              
+              <div class="bg-gray-100 p-3 rounded-lg">
+                <h3 class="font-semibold flex items-center">
+                  <i class="fas fa-lightbulb brown-text mr-2"></i>
+                  Point d'analyse 3
+                </h3>
+                <p class="text-sm">
+                  Explication détaillée du troisième point d'analyse basé sur les données du tableau. Mettre en évidence les tendances importantes et leur signification pour le projet.
+                </p>
+              </div>
+            </div>
+            
+            <!-- Conclusion -->
+            <div class="border-t-2 border-gray-200 pt-3">
+              <h3 class="text-lg font-semibold mb-2">Conclusion</h3>
+              <p class="text-sm">
+                Résumé des principales conclusions tirées de l'analyse des données présentées. Cette section doit souligner l'importance de ces informations pour la prise de décision et la stratégie globale du projet Espressolab en Tunisie.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
